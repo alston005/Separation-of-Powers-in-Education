@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "1027571301", class = "factor"), 
+    url = structure(1L, .Label = "https://www.thehindu.com/news/cities/bangalore/private-schools-allege-delay-in-rte-reimbursements/article25842661.ece", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")

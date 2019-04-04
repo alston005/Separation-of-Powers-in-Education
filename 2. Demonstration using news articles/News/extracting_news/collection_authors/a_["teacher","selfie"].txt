@@ -1,0 +1,7 @@
+structure(list(ID = structure(2:1, .Label = c("1028740813", "1030098831"
+), class = "factor"), url = structure(2:1, .Label = c("http://www.rediff.com/news/special/must-read-an-encounter-with-priyanka-gandhi/20181229.htm", 
+"https://timesofindia.indiatimes.com/city/nashik/nashik-app-to-record-teachers-attendance-and-leaves/articleshow/67327507.cms"
+), class = "factor"), details = list(structure(list(uri = "sumita_sarkar@timesofindia.indiatimes.com", 
+    name = "Sumita Sarkar", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-2L), class = "data.frame")

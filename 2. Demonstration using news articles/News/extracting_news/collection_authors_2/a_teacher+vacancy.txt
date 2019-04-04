@@ -1,0 +1,7 @@
+structure(list(ID = structure(2:1, .Label = c("919630311", "978391869"
+), class = "factor"), url = structure(2:1, .Label = c("https://timesofindia.indiatimes.com/city/coimbatore/pg-teacher-vacancy-up-as-1040-of-them-get-promoted-as-hm/articleshow/65284878.cms", 
+"https://www.financialexpress.com/jobs/rajasthan-teacher-vacancy-2018-apply-now-pre-primary-teacher-application-process-ends-soon-at-rsmssb-rajasthan-gov-in/1361289/"
+), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(uri = "tnn@timesofindia.indiatimes.com", name = "tnn", 
+        type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L))), row.names = c(NA, 
+-2L), class = "data.frame")

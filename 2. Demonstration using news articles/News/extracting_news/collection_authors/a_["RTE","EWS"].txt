@@ -1,0 +1,20 @@
+structure(list(ID = structure(7:1, .Label = c("1021109268", "1021109269", 
+"1023565053", "1024302885", "1025421508", "1029579430", "1029889288"
+), class = "factor"), url = structure(c(1L, 7L, 3L, 4L, 2L, 6L, 
+5L), .Label = c("https://swarajyamag.com/politics/maharashtra-government-finds-a-new-way-to-avoid-paying-rte-reimbursement-for-poor-children", 
+"https://theprint.in/governance/20-lakh-seats-reserved-in-private-schools-for-poor-children-but-only-20-get-filled/166749/", 
+"https://timesofindia.indiatimes.com/city/chandigarh/english-forms-for-rte-seats-discourage-parents/articleshow/67222214.cms", 
+"https://www.dnaindia.com/mumbai/report-mumbai-got-your-kid-into-kg-no-guarantees-of-primary-admission-2698800", 
+"https://www.hindustantimes.com/delhi-news/nursery-admission-rules-for-ews-category-in-delhi-likely-in-january-first-week/story-KPQqftaNwkpLwoQdN4j8PL.html", 
+"https://www.hindustantimes.com/education/nursery-admission-rules-for-ews-category-likely-in-jan-first-week/story-TiV1xh4zItA3XrehwWKrxK.html", 
+"https://www.thehindu.com/news/cities/Delhi/online-admission-for-entry-level-ewsdg-seats/article25868079.ece"
+), class = "factor"), details = list(structure(list(uri = "arihant_pawariya@swarajyamag.com", 
+    name = "Arihant Pawariya", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(uri = "kamini_mehta@timesofindia.indiatimes.com", 
+        name = "Kamini Mehta", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-7L), class = "data.frame")

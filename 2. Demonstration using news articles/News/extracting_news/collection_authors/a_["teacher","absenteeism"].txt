@@ -1,0 +1,17 @@
+structure(list(ID = structure(6:1, .Label = c("1020689914", "1022739790", 
+"1024403081", "1024598065", "1026703581", "1030098831"), class = "factor"), 
+    url = structure(c(5L, 6L, 3L, 2L, 4L, 1L), .Label = c("http://www.easternmirrornagaland.com/suggestive-measures-on-educational-perspective/", 
+    "https://indianexpress.com/article/education/himachal-pradesh-hc-seeks-affidavit-on-mechanism-to-check-absenteeism-of-school-teachers-5505055/", 
+    "https://swarajyamag.com/insta/himachal-pradesh-high-court-enquires-about-the-mechanism-used-by-government-to-check-teacher-absenteeism", 
+    "https://theprint.in/opinion/to-fix-indias-education-system-we-need-good-action-plans-not-policies/166434/", 
+    "https://timesofindia.indiatimes.com/city/nashik/nashik-app-to-record-teachers-attendance-and-leaves/articleshow/67327507.cms", 
+    "https://www.hindustantimes.com/patna/here-s-why-1-140-bihar-schools-are-facing-closure/story-UgX9tLon7xCvo0wtXeyIWJ.html"
+    ), class = "factor"), details = list(structure(list(uri = "sumita_sarkar@timesofindia.indiatimes.com", 
+        name = "Sumita Sarkar", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(uri = "arun_kumar@hindustantimes.com", 
+            name = "Arun Kumar", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-6L), class = "data.frame")

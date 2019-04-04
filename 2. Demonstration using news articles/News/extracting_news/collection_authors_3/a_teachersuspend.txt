@@ -1,0 +1,10 @@
+structure(list(ID = structure(3:1, .Label = c("884006151", "896186667", 
+"899027358"), class = "factor"), url = structure(c(2L, 3L, 1L
+), .Label = c("https://timesofindia.indiatimes.com/city/ludhiana/suspend-and-book-teacher-for-harassing-kid-child-rights-panel/articleshow/64514619.cms", 
+"https://timesofindia.indiatimes.com/videos/news/uttarakhand-teacher-big-boss-calling-she-says-no/videoshow/64852515.cms", 
+"https://www.deccanchronicle.com/nation/current-affairs/290618/suspend-her-take-into-custody-uttarakhand-cm-to-cops-after-row-with.html"
+), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(uri = "payal_dhawan@timesofindia.indiatimes.com", 
+        name = "Payal Dhawan", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L))), row.names = c(NA, 
+-3L), class = "data.frame")

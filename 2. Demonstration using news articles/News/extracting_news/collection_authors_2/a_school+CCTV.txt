@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "898181852", class = "factor"), 
+    url = structure(1L, .Label = "https://indianexpress.com/article/india/mandsaur-rape-assault-case-school-cctv-not-working-footage-sourced-from-elsewhere-to-crack-case-5243281/", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")

@@ -1,0 +1,14 @@
+structure(list(ID = structure(c(2L, 1L, 8L, 7L, 6L, 5L, 4L, 3L
+), .Label = c("1001974434", "1009676604", "920587083", "935322729", 
+"936341279", "936348211", "939339533", "976660940"), class = "factor"), 
+    url = structure(c(3L, 2L, 1L, 8L, 7L, 5L, 6L, 4L), .Label = c("http://meghalayatimes.info/index.php/front-page/43874-gsu-writes-to-education-director-over-absent-teachers-pitiable-schools", 
+    "http://www.newindianexpress.com/cities/bengaluru/2018/nov/23/students-absent-for-long-teachers-have-to-inform-child-welfare-panel-1902095.html", 
+    "https://indianexpress.com/article/education/education-officers-to-collect-info-on-absent-teachers-5477045/", 
+    "https://timesofindia.indiatimes.com/city/lucknow/uttar-pradesh-teachers-and-principal-absent-cooks-mentor-students/articleshow/65304971.cms", 
+    "https://timesofindia.indiatimes.com/india/rajasthan-government-buckles-scraps-orders-about-teachers-losing-pay-if-absent-from-teachers-day-celebrations/articleshow/65626000.cms", 
+    "https://www.business-standard.com/article/news-ians/salary-deduction-if-absent-on-teachers-day-state-function-118083000459_1.html", 
+    "https://www.business-standard.com/article/pti-stories/raj-govt-buckles-scraps-orders-about-teachers-losing-pay-if-absent-from-teachers-day-celebrations-118083100896_1.html", 
+    "https://www.news18.com/news/india/teachers-day-2018-rajasthan-teachers-to-face-salary-deduction-if-absent-on-function-1867831.html"
+    ), class = "factor"), details = list(list(), list(), list(), 
+        list(), list(), list(), list(), list())), row.names = c(NA, 
+-8L), class = "data.frame")

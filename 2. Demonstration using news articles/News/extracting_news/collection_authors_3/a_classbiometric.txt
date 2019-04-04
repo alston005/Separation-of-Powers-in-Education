@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "981336937", class = "factor"), 
+    url = structure(1L, .Label = "https://swarajyamag.com/insta/class-bunkers-beware-andra-pradesh-universities-to-soon-set-up-biometric-attendance-for-students-and-staff", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")

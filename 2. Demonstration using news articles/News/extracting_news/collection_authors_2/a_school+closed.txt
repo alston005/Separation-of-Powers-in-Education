@@ -1,0 +1,14 @@
+structure(list(ID = structure(5:1, .Label = c("792990794", "808891788", 
+"935551928", "952672797", "953281789"), class = "factor"), url = structure(c(4L, 
+3L, 5L, 2L, 1L), .Label = c("http://www.dnaindia.com/mumbai/report-goregaon-school-closed-for-structural-audit-after-vibrations-2575058", 
+"http://www.ibtimes.co.in/andhra-pradesh-bandh-school-closed-tight-security-place-state-witnesses-shutdown-759816", 
+"http://www.newindianexpress.com/cities/hyderabad/2018/sep/23/why-shouldnt-azaan-school-be-closed-down-1875991.html", 
+"https://timesofindia.indiatimes.com/city/varanasi/school-closed-due-to-harassment-by-hooligans/articleshow/65928364.cms", 
+"https://www.thehindu.com/news/cities/Madurai/school-closed-for-wedding-of-headmistress-son-ramanathapuram/article24821874.ece"
+), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(uri = "d_j_walter_scott@thehindu.com", name = "D.J. Walter Scott", 
+        type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-5L), class = "data.frame")

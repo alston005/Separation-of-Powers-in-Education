@@ -1,0 +1,8 @@
+structure(list(ID = structure(4:1, .Label = c("842856545", "892430918", 
+"923079159", "952678227"), class = "factor"), url = structure(c(3L, 
+2L, 4L, 1L), .Label = c("http://www.dailyexcelsior.com/jk-private-schools-association-takes-issues-dse/", 
+"http://www.newindianexpress.com/states/andhra-pradesh/2018/aug/11/andhra-pradesh-private-schools-association-warns-of-chalo-amaravati-1856247.html", 
+"http://www.newindianexpress.com/states/andhra-pradesh/2018/sep/23/exam-change-schools-association-writes-to-andhra-pradesh-government-1875955.html", 
+"http://www.newindianexpress.com/states/karnataka/2018/jun/23/private-schools-association-demands-action-against-state-child-rights-panel-1832373.html"
+), class = "factor"), details = list(list(), list(), list(), 
+    list())), row.names = c(NA, -4L), class = "data.frame")

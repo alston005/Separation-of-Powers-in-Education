@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "966976904", class = "factor"), 
+    url = structure(1L, .Label = "https://article.wn.com/view/2018/10/11/Chief_Inspector_sets_out_vision_for_new_Education_Inspection/", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")

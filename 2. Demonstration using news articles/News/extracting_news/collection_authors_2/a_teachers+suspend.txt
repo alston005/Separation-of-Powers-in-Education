@@ -1,0 +1,7 @@
+structure(list(ID = structure(3:1, .Label = c("815321525", "894439938", 
+"899380589"), class = "factor"), url = structure(c(2L, 1L, 3L
+), .Label = c("http://www.easternmirrornagaland.com/ad-hoc-teachers-suspend-proposed-hunger-strike/", 
+"http://www.easternmirrornagaland.com/teachers-suspend-hunger-strike-agreement-with-govt-not-yet/", 
+"http://zeenews.india.com/agitating-odisha-teachers-suspend-strike-2082160.html"
+), class = "factor"), details = list(list(), list(), list())), row.names = c(NA, 
+-3L), class = "data.frame")

@@ -1,0 +1,14 @@
+structure(list(ID = structure(5:1, .Label = c("1021297182", "1021312051", 
+"1021328911", "1021636441", "1029889288"), class = "factor"), 
+    url = structure(c(3L, 1L, 2L, 5L, 4L), .Label = c("http://www.newindianexpress.com/business/2018/dec/18/irregular-expenditure-in-kendriya-vidyalayas-panel-says-rs-60-crore-due-for-recovery-1913255.html", 
+    "https://indianexpress.com/article/education/irregular-expenditure-rs-60-cr-due-for-recovery-from-kendriya-vidyalayas-5499202/", 
+    "https://swarajyamag.com/politics/maharashtra-government-finds-a-new-way-to-avoid-paying-rte-reimbursement-for-poor-children", 
+    "https://www.business-standard.com/article/pti-stories/irregular-expenditure-in-kendriya-vidyalayas-panel-says-rs-60-due-for-recovery-118121800755_1.html", 
+    "https://www.news18.com/news/india/irregular-expenditure-in-kendriya-vidyalayas-panel-says-rs-60-crore-due-for-recovery-1977289.html"
+    ), class = "factor"), details = list(structure(list(uri = "arihant_pawariya@swarajyamag.com", 
+        name = "Arihant Pawariya", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-5L), class = "data.frame")

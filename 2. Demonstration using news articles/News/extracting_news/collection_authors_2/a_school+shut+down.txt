@@ -1,0 +1,5 @@
+structure(list(ID = structure(2:1, .Label = c("892982316", "893088977"
+), class = "factor"), url = structure(2:1, .Label = c("https://www.firstpost.com/india/class-9-student-stabbed-to-death-in-vadodara-gujarat-police-says-accused-senior-wanted-school-shut-down-4582761.html", 
+"https://www.indiatimes.com/news/india/gurugram-rerun-in-gujarat-teen-kills-school-mate-because-he-wanted-to-see-the-school-shut-down-348021.html"
+), class = "factor"), details = list(list(), list())), row.names = c(NA, 
+-2L), class = "data.frame")

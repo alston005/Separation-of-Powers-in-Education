@@ -1,0 +1,5 @@
+structure(list(ID = structure(1L, .Label = "819843486", class = "factor"), 
+    url = structure(1L, .Label = "https://timesofindia.indiatimes.com/city/lucknow/teachers-on-duty-at-government-sponsored-mass-weddings/articleshow/63063257.cms", class = "factor"), 
+    details = list(structure(list(uri = "isha_jain@timesofindia.indiatimes.com", 
+        name = "Isha Jain", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L))), row.names = c(NA, 
+-1L), class = "data.frame")

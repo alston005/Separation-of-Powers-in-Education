@@ -1,0 +1,10 @@
+structure(list(ID = structure(6:1, .Label = c("788049256", "849030287", 
+"859230888", "877974846", "892982316", "893088977"), class = "factor"), 
+    url = structure(c(4L, 3L, 5L, 2L, 1L, 6L), .Label = c("http://indianexpress.com/article/education/school-asks-11-ews-students-to-leave-says-itll-shut-down-5135289/", 
+    "https://timesofindia.indiatimes.com/city/coimbatore/at-99-good-shepherd-high-school-at-fort-is-on-the-verge-of-shut-down-say-alumni/articleshow/63965366.cms", 
+    "https://www.firstpost.com/india/class-9-student-stabbed-to-death-in-vadodara-gujarat-police-says-accused-senior-wanted-school-shut-down-4582761.html", 
+    "https://www.indiatimes.com/news/india/gurugram-rerun-in-gujarat-teen-kills-school-mate-because-he-wanted-to-see-the-school-shut-down-348021.html", 
+    "https://www.oneindia.com/india/haryana-angry-villagers-shut-down-school-after-51-student-fail-cbse-class-10-exam-2707064.html", 
+    "https://www.oneindia.com/india/kerala-kochis-peace-international-school-asked-to-shut-down-2613760.html"
+    ), class = "factor"), details = list(list(), list(), list(), 
+        list(), list(), list())), row.names = c(NA, -6L), class = "data.frame")

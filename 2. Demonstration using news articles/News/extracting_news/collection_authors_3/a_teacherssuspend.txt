@@ -1,0 +1,9 @@
+structure(list(ID = structure(5:1, .Label = c("815321525", "894439938", 
+"895373955", "895967438", "899380589"), class = "factor"), url = structure(c(3L, 
+1L, 5L, 2L, 4L), .Label = c("http://www.dnaindia.com/delhi/report-cbse-asks-schools-to-suspend-five-teachers-from-delhi-for-miscalculation-of-marks-2630766", 
+"http://www.easternmirrornagaland.com/ad-hoc-teachers-suspend-proposed-hunger-strike/", 
+"http://www.easternmirrornagaland.com/teachers-suspend-hunger-strike-agreement-with-govt-not-yet/", 
+"http://zeenews.india.com/agitating-odisha-teachers-suspend-strike-2082160.html", 
+"https://www.hindustantimes.com/india-news/cbse-suspends-five-delhi-teachers-after-miscalculations-up-to-55-marks-in-board-exams/story-8NUIWw4gfDH8DImsTgQ0SI.html"
+), class = "factor"), details = list(list(), list(), list(), 
+    list(), list())), row.names = c(NA, -5L), class = "data.frame")

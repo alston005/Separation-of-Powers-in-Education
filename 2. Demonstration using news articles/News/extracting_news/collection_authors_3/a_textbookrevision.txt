@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "812515032", class = "factor"), 
+    url = structure(1L, .Label = "http://www.newindianexpress.com/cities/bengaluru/2018/feb/14/house-committee-to-look-into-textbook-revision-1773011.html", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")

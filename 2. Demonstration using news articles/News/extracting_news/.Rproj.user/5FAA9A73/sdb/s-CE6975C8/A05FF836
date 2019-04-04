@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "x <- news$articles$results$authors\nz <- news$articles$results$authors\nappend(x,z)\n\nz\nnews$articles$results$uri\nh<- NULL\nh <- news$articles$results$authors\nstr(h)\nhk <- data.frame(author = data.frame(news$articles$results$authors), ID = news$articles$results$uri)\nhdfx <- data.frame(matrix(unlist(news$articles$results$authors), nrow=100, byrow=T))\ndfx\n\nm <- fromJSON(url_page, flatten = TRUE)\nstr(m)\nm$articles$page\n\nnews$articles$results$authors\n\nauthors <- data.frame(ID = news$articles$results$uri)\nauthors$details <- (news$articles$results$authors)\n\nView(authors)\nx <- authors\n\nauthors.df <- do.call(\"rbind\", lapply(authors, as.data.frame)) \n\nlapply(authors, write, \"test.txt\", append=TRUE, ncolumns=1000)\ntypeof(authors.df)\n?write.table\nwrite.table(x, \"file.txt\")\nx <- unlist(x)\nx\n\ndfdf <- data.frame(matrix(unlist(x), nrow=100, byrow=T))\ndo.call(rbind.data.frame, x)\nView(x)\nhdfx <- data.frame(matrix(unlist(x), nrow=100, byrow=T))\n\nsave(x, file=\"fname.RData\")\n\nclass(authors)\nmkg <- unlist(authors$details)\nView(mkg)\n?write.list\n?write.table\n\nwrite.table(authors, \"abc\")\n\ndput(authors, file=\"out.txt\")\nnew <- source(\"out.txt\")\nView(new)\n\ngetwd()\nsearched_keywords <- list.files(path = \"/Users/Alston/Documents/CCS/SoP/BATakeover/News/extracting_news/collection_articles\", pattern = NULL, all.files = FALSE,\n           full.names = FALSE, recursive = FALSE,\n           ignore.case = FALSE, include.dirs = FALSE, no.. = FALSE)\nt\nsearched_keywords\n",
+    "created" : 1548047639289.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "291253407",
+    "id" : "A05FF836",
+    "lastKnownWriteTime" : 1548048417,
+    "last_content_update" : 1548048417988,
+    "path" : "~/Documents/CCS/SoP/BATakeover/News/extracting_news/sandpit.R",
+    "project_path" : "sandpit.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

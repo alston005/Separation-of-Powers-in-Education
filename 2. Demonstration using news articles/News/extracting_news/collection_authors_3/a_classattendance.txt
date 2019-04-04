@@ -1,0 +1,22 @@
+structure(list(ID = structure(c(1L, 8L, 7L, 6L, 5L, 4L, 3L, 2L
+), .Label = c("1010850637", "798657545", "857761272", "961002814", 
+"980104594", "980380872", "980571991", "981336937"), class = "factor"), 
+    url = structure(c(6L, 1L, 5L, 7L, 8L, 2L, 3L, 4L), .Label = c("https://swarajyamag.com/insta/class-bunkers-beware-andra-pradesh-universities-to-soon-set-up-biometric-attendance-for-students-and-staff", 
+    "https://timesofindia.indiatimes.com/city/ahmedabad/board-makes-80-attendance-compulsory-for-class-x-xii-students/articleshow/66060434.cms", 
+    "https://timesofindia.indiatimes.com/city/patna/whatsapp-being-used-to-up-class-attendance/articleshow/63931010.cms", 
+    "https://timesofindia.indiatimes.comhome/education/news/bihar-board-class-10-practical-exam-postponed-due-to-delay-in-omr-attendance-and-award-sheets/articleshow/62608320.cms", 
+    "https://www.indiatimes.com/news/india/class-8-delhi-student-beats-up-teacher-with-iron-rod-after-being-scolded-for-less-attendance-355596.html", 
+    "https://www.latestly.com/india/education/cbse-issues-important-notice-75-attendance-is-mandatory-for-class-10-12-board-exam-2019-check-details-at-cbse-nic-in-522640.html", 
+    "https://www.latestly.com/india/news/delhi-class-8-student-attacks-teacher-after-being-scolded-for-not-bringing-textbooks-and-irregular-attendance-458852.html", 
+    "https://www.news18.com/news/india/class-8-delhi-student-attacks-school-teacher-with-iron-rod-after-being-scolded-for-irregular-attendance-1922089.html"
+    ), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = "maninder_dabas@indiatimes.com", 
+            name = "Maninder Dabas", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(uri = "team_latestly@latestly.com", name = "Team Latestly", 
+            type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-8L), class = "data.frame")

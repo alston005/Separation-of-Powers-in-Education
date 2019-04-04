@@ -1,0 +1,9 @@
+structure(list(ID = structure(5:1, .Label = c("798323306", "809553064", 
+"866346150", "866406530", "866523719"), class = "factor"), url = structure(c(3L, 
+4L, 5L, 1L, 2L), .Label = c("http://www.dnaindia.com/jaipur/report-protests-forced-govt-to-shelve-ppp-model-in-school-education-2582930", 
+"http://www.financialexpress.com/budget/union-budget-2018-education-sector-awaits-robust-ppp-guidelines/1024717/", 
+"http://www.sify.com/finance/fullstory.php?a=sfltJxfaeijgi&title=PPP_crucial_for_pre-school_education_format%3A_Anil_Swarup", 
+"http://www.sify.com/finance/ppp-crucial-for-pre-school-education-format-anil-swarup-news-news-sfltJxfaeijgi.html", 
+"https://www.aninews.in/news/ppp-crucial-for-pre-school-education-format-anil-swarup201805111843230004/"
+), class = "factor"), details = list(list(), list(), list(), 
+    list(), list())), row.names = c(NA, -5L), class = "data.frame")

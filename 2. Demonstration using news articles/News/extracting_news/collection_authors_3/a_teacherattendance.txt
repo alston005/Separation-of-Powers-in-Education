@@ -1,0 +1,24 @@
+structure(list(ID = structure(7:1, .Label = c("836495535", "939679786", 
+"940620694", "980104594", "980141683", "980380872", "980571991"
+), class = "factor"), url = structure(c(3L, 5L, 1L, 7L, 4L, 6L, 
+2L), .Label = c("https://indianexpress.com/article/cities/delhi/south-delhi-pulled-up-over-attendance-student-hits-teacher-with-a-rod-5421570/", 
+"https://timesofindia.indiatimes.com/city/mumbai/bmc-to-monitor-teacher-attendance/articleshow/63418655.cms", 
+"https://www.indiatimes.com/news/india/class-8-delhi-student-beats-up-teacher-with-iron-rod-after-being-scolded-for-less-attendance-355596.html", 
+"https://www.indiatimes.com/trending/this-photo-of-teacher-drying-school-s-attendance-register-in-flooded-kerala-is-touching-hearts-352548.html", 
+"https://www.latestly.com/india/news/delhi-class-8-student-attacks-teacher-after-being-scolded-for-not-bringing-textbooks-and-irregular-attendance-458852.html", 
+"https://www.news18.com/news/buzz/kerala-teacher-drying-flooded-schools-attendance-register-is-winning-hearts-on-teachers-day-1868767.html", 
+"https://www.news18.com/news/india/class-8-delhi-student-attacks-school-teacher-with-iron-rod-after-being-scolded-for-irregular-attendance-1922089.html"
+), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(uri = "team_latestly@latestly.com", name = "Team Latestly", 
+        type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(uri = "sukrita_baruah@indianexpress.com", 
+        name = "Sukrita Baruah", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(uri = "https@news18.com", name = "https", 
+        type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(uri = c("rakhi_bose@news18.com", "https@news18.com"
+    ), name = c("Rakhi Bose", "https"), type = c("author", "author"
+    ), isAgency = c(FALSE, FALSE)), class = "data.frame", row.names = 1:2), 
+    structure(list(uri = "vinamrata_borwankar@timesofindia.indiatimes.com", 
+        name = "Vinamrata Borwankar", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L))), row.names = c(NA, 
+-7L), class = "data.frame")

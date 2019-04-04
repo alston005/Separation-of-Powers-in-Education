@@ -1,0 +1,14 @@
+structure(list(ID = structure(8:1, .Label = c("792333401", "801654379", 
+"842856545", "871425326", "892430918", "923079159", "935236618", 
+"952678227"), class = "factor"), url = structure(c(5L, 8L, 4L, 
+6L, 7L, 1L, 3L, 2L), .Label = c("http://www.dailyexcelsior.com/jk-private-schools-association-takes-issues-dse/", 
+"http://www.dnaindia.com/ahmedabad/report-vadodara-district-parents-association-to-visit-schools-to-boost-bandh-call-today-2574850", 
+"http://www.newindianexpress.com/cities/hyderabad/2018/jan/27/school-fee-issue-government-refutes-hyderabad-schools-parents-associations-claim-1764019.html", 
+"http://www.newindianexpress.com/states/andhra-pradesh/2018/aug/11/andhra-pradesh-private-schools-association-warns-of-chalo-amaravati-1856247.html", 
+"http://www.newindianexpress.com/states/andhra-pradesh/2018/sep/23/exam-change-schools-association-writes-to-andhra-pradesh-government-1875955.html", 
+"http://www.newindianexpress.com/states/karnataka/2018/jun/23/private-schools-association-demands-action-against-state-child-rights-panel-1832373.html", 
+"https://timesofindia.indiatimes.com/city/bengaluru/admit-kids-at-5-years-to-government-schools-says-teachers-association/articleshow/64241594.cms", 
+"https://www.firstpost.com/india/momo-challenge-icse-association-in-west-bengal-warns-schools-about-game-suggests-awareness-drives-for-parents-and-students-5076451.html"
+), class = "factor"), details = list(list(), list(), list(), 
+    list(), list(), list(), list(), list())), row.names = c(NA, 
+-8L), class = "data.frame")

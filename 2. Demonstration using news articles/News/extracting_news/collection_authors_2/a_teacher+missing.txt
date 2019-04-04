@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "862989294", class = "factor"), 
+    url = structure(1L, .Label = "http://www.freepressjournal.in/latest-news/kashmir-varsity-teacher-missing-protests-erupt/1271347", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")

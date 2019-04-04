@@ -1,0 +1,17 @@
+structure(list(ID = structure(c(1L, 6L, 5L, 4L, 3L, 2L), .Label = c("1016871970", 
+"810420750", "841960644", "891913136", "921023955", "959477583"
+), class = "factor"), url = structure(c(5L, 6L, 1L, 3L, 2L, 4L
+), .Label = c("http://www.newindianexpress.com/states/karnataka/2018/aug/08/koppal-school-children-forced-to-wash-physical-education-teachers-clothes-1854805.html", 
+"https://timesofindia.indiatimes.com/city/ludhiana/forced-to-walk-to-school-teacher-suffers-miscarriage-files-complaint/articleshow/63563316.cms", 
+"https://www.financialexpress.com/india-news/tamil-nadu-students-protest-transfer-of-beloved-english-teacher-school-forced-to-defer-it-by-10-days/1215788/", 
+"https://www.hindustantimes.com/india-news/forced-to-do-sit-ups-by-teacher-after-hernia-operation-class-7-boy-undergoes-surgery-again/story-HJsJbV1u6ysyb2GLSMRmJI.html", 
+"https://www.latestly.com/india/news/forced-to-play-by-teacher-undergraduate-student-collapses-during-basketball-game-in-chennai-dies-537462.html", 
+"https://www.latestly.com/india/news/greater-noida-class-10-boy-forced-to-strip-perform-ramp-walk-teacher-shoots-video-415339.html"
+), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(uri = "team_latestly@latestly.com", name = "Team Latestly", 
+        type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-6L), class = "data.frame")

@@ -1,0 +1,5 @@
+structure(list(ID = structure(1L, .Label = "1009676604", class = "factor"), 
+    url = structure(1L, .Label = "https://indianexpress.com/article/education/education-officers-to-collect-info-on-absent-teachers-5477045/", class = "factor"), 
+    details = list(structure(list(uri = "ritu_sharma@indianexpress.com", 
+        name = "Ritu Sharma", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L))), row.names = c(NA, 
+-1L), class = "data.frame")

@@ -1,0 +1,22 @@
+structure(list(ID = structure(6:1, .Label = c("801036989", "801066111", 
+"841976361", "844871486", "849138860", "926664966"), class = "factor"), 
+    url = structure(c(6L, 4L, 1L, 5L, 3L, 2L), .Label = c("http://www.newindianexpress.com/cities/chennai/2018/apr/06/parents-pay-the-price-as-schools-hike-fees-arbitrarily-in-chennai-1797680.html", 
+    "http://www.newindianexpress.com/cities/hyderabad/2018/jan/26/parents-fume-at-inaction-by-govt-after-hc-allows-schools-to-hike-fees-1763529.html", 
+    "http://www.newindianexpress.com/states/telangana/2018/jan/26/parents-fume-at-inaction-by-government-after-hyderabad-high-court-allows-schools-to-hike-fees-1763529.html", 
+    "https://timesofindia.indiatimes.com/city/gurgaon/hry-parents-schools-hike-fee-by-10/articleshow/63738509.cms", 
+    "https://timesofindia.indiatimes.com/city/jaipur/parents-in-the-dark-as-city-schools-hike-fees/articleshow/63561978.cms", 
+    "https://timesofindia.indiatimes.com/city/mumbai/plan-to-let-pvt-schools-hike-fees-if-76-of-parents-agree/articleshow/65431199.cms"
+    ), class = "factor"), details = list(structure(list(uri = "vinamrata_borwankar@timesofindia.indiatimes.com", 
+        name = "Vinamrata Borwankar", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = c("http@newindianexpress.com", "dia_rekhi@newindianexpress.com"
+        ), name = c("http", "Dia Rekhi"), type = c("author", 
+        "author"), isAgency = c(FALSE, FALSE)), class = "data.frame", row.names = 1:2), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = c("http@newindianexpress.com", "sadaf_aman@newindianexpress.com"
+        ), name = c("http", "Sadaf Aman"), type = c("author", 
+        "author"), isAgency = c(FALSE, FALSE)), class = "data.frame", row.names = 1:2), 
+        structure(list(uri = c("http@newindianexpress.com", "sadaf_aman@newindianexpress.com"
+        ), name = c("http", "Sadaf Aman"), type = c("author", 
+        "author"), isAgency = c(FALSE, FALSE)), class = "data.frame", row.names = 1:2))), row.names = c(NA, 
+-6L), class = "data.frame")

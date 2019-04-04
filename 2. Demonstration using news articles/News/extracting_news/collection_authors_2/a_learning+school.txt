@@ -1,0 +1,8 @@
+structure(list(ID = structure(4:1, .Label = c("805066777", "863653493", 
+"863696384", "863741761"), class = "factor"), url = structure(c(1L, 
+2L, 4L, 3L), .Label = c("http://www.sify.com/finance/fullstory.php?a=sfhrVbacabdhb&title=Heritage_Xperiential_learning_school_introduces_HXLS_Makerspace_in_curriculum", 
+"http://www.sify.com/finance/heritage-xperiential-learning-school-introduces-hxls-makerspace-in-curriculum-news-news-sfhrVbacabdhb.html", 
+"https://timesofindia.indiatimes.com/business/india-business/fm-arun-jaitley-echoes-eco-survey-takes-e-learning-to-school/articleshow/62748550.cms", 
+"https://www.aninews.in/news/heritage-xperiential-learning-school-introduces-hxls-makerspace-in-curriculum201805071654050002/"
+), class = "factor"), details = list(list(), list(), list(), 
+    list())), row.names = c(NA, -4L), class = "data.frame")

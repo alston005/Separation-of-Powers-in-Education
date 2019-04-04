@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "1024598065", class = "factor"), 
+    url = structure(1L, .Label = "https://swarajyamag.com/insta/himachal-pradesh-high-court-enquires-about-the-mechanism-used-by-government-to-check-teacher-absenteeism", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")

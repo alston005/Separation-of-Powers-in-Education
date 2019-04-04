@@ -1,0 +1,14 @@
+structure(list(ID = structure(5:1, .Label = c("1021762409", "1023308425", 
+"1023572405", "1024460911", "1029868551"), class = "factor"), 
+    url = structure(c(2L, 4L, 3L, 1L, 5L), .Label = c("http://risingkashmir.com/news/the-embodiment-of-knowledge-and-piety", 
+    "https://scroll.in/article/907065/readers-comments-computer-surveillance-order-shows-that-the-centre-wants-to-monitor-thoughts-too", 
+    "https://timesofindia.indiatimes.com/city/chennai/no-cuts-in-class-xi-xii-textbook-content/articleshow/67185552.cms", 
+    "https://timesofindia.indiatimes.com/city/mumbai/madrassas-urged-to-allow-vaccination/articleshow/67200285.cms", 
+    "https://www.dnaindia.com/india/report-ban-on-kashmiri-pheran-kicks-up-political-storm-2697862"
+    ), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = "mohammed_wajihuddin@timesofindia.indiatimes.com", 
+            name = "Mohammed Wajihuddin", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-5L), class = "data.frame")

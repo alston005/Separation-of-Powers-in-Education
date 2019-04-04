@@ -1,0 +1,18 @@
+structure(list(ID = structure(6:1, .Label = c("882506804", "976902168", 
+"977182489", "977250388", "977295341", "977324688"), class = "factor"), 
+    url = structure(c(6L, 2L, 5L, 4L, 3L, 1L), .Label = c("http://www.newindianexpress.com/states/karnataka/2018/jun/07/karnataka-student-suffers-eye-injuries-after-being-punished-by-teacher-1824860.html", 
+    "http://www.sify.com/news/ftii-student-alleges-she-was-punished-for-speaking-against-sexual-harassment-news-national-skyqHrahiheag.html", 
+    "https://indianexpress.com/article/education/ftii-student-says-being-punished-for-speaking-up-against-sexual-harassment-5415340/", 
+    "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/punished-for-speaking-up-about-sexual-harassment-says-suspended-ftii-student/articleshow/66344397.cms", 
+    "https://www.aninews.in/news/ftii-student-alleges-she-was-punished-for-speaking-against-sexual-harassment201810241537160001/", 
+    "https://www.business-standard.com/article/news-ani/ftii-student-alleges-she-was-punished-for-speaking-against-sexual-harassment-118102400756_1.html"
+    ), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = "pune_mirror@timesofindia.indiatimes.com", 
+            name = "Pune Mirror", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(uri = "atikh_rashid@indianexpress.com", 
+            name = "Atikh Rashid", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(uri = "http@newindianexpress.com", name = "http", 
+            type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L))), row.names = c(NA, 
+-6L), class = "data.frame")

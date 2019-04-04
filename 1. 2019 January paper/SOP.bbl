@@ -1,0 +1,1685 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{aibb2013-14}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=72f249562fdc8295def289cd241c04f5}{%
+           family={{Accountability Initiative}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Accountability Initiative}%
+      }
+      \strng{namehash}{72f249562fdc8295def289cd241c04f5}
+      \strng{fullhash}{72f249562fdc8295def289cd241c04f5}
+      \strng{bibnamehash}{72f249562fdc8295def289cd241c04f5}
+      \strng{authorbibnamehash}{72f249562fdc8295def289cd241c04f5}
+      \strng{authornamehash}{72f249562fdc8295def289cd241c04f5}
+      \strng{authorfullhash}{72f249562fdc8295def289cd241c04f5}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Budget Briefs: Sarva Shiksha Abhiyan (SSA), GOI, 2013-14}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://accountabilityindia.in/sites/default/files/ssa_2013-14.pdf
+      \endverb
+      \verb{url}
+      \verb http://accountabilityindia.in/sites/default/files/ssa_2013-14.pdf
+      \endverb
+    \endentry
+    \entry{aser2016}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=046befd58e3e25e7e59427fdcf0924ee}{%
+           family={{ASER Centre}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ASER Centre}%
+      }
+      \strng{namehash}{046befd58e3e25e7e59427fdcf0924ee}
+      \strng{fullhash}{046befd58e3e25e7e59427fdcf0924ee}
+      \strng{bibnamehash}{046befd58e3e25e7e59427fdcf0924ee}
+      \strng{authorbibnamehash}{046befd58e3e25e7e59427fdcf0924ee}
+      \strng{authornamehash}{046befd58e3e25e7e59427fdcf0924ee}
+      \strng{authorfullhash}{046befd58e3e25e7e59427fdcf0924ee}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Annual Status of Education Report 2016}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://img.asercentre.org/docs/Publications/ASER\%20Reports/ASER\%202016/4\%20pagers/enrollmentandlearningreportcard_english.pdf
+      \endverb
+      \verb{url}
+      \verb http://img.asercentre.org/docs/Publications/ASER%5C%20Reports/ASER%5C%202016/4%5C%20pagers/enrollmentandlearningreportcard_english.pdf
+      \endverb
+    \endentry
+    \entry{beteille2009absenteeism}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=585a6b2275abafdfce837ac3c5249d36}{%
+           family={Beteille},
+           familyi={B\bibinitperiod},
+           given={Tara},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{585a6b2275abafdfce837ac3c5249d36}
+      \strng{fullhash}{585a6b2275abafdfce837ac3c5249d36}
+      \strng{bibnamehash}{585a6b2275abafdfce837ac3c5249d36}
+      \strng{authorbibnamehash}{585a6b2275abafdfce837ac3c5249d36}
+      \strng{authornamehash}{585a6b2275abafdfce837ac3c5249d36}
+      \strng{authorfullhash}{585a6b2275abafdfce837ac3c5249d36}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Absenteeism, transfers and patronage: the political economy of teacher labor markets in India}
+      \field{year}{2009}
+    \endentry
+    \entry{beteille2015fixers}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b4cc420c97ca0fb82d1b1d76565b14a1}{%
+           family={B{é}teille},
+           familyi={B\bibinitperiod},
+           given={Tara},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press Journals}%
+      }
+      \strng{namehash}{b4cc420c97ca0fb82d1b1d76565b14a1}
+      \strng{fullhash}{b4cc420c97ca0fb82d1b1d76565b14a1}
+      \strng{bibnamehash}{b4cc420c97ca0fb82d1b1d76565b14a1}
+      \strng{authorbibnamehash}{b4cc420c97ca0fb82d1b1d76565b14a1}
+      \strng{authornamehash}{b4cc420c97ca0fb82d1b1d76565b14a1}
+      \strng{authorfullhash}{b4cc420c97ca0fb82d1b1d76565b14a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Asian Survey}
+      \field{number}{5}
+      \field{title}{Fixers in India’s Teacher Labor Markets: Behind the Scenes}
+      \field{volume}{55}
+      \field{year}{2015}
+      \field{pages}{942\bibrangedash 968}
+      \range{pages}{27}
+    \endentry
+    \entry{deo_chart}{unpublished}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e4d98c1e8c56429b6a274363a5528652}{%
+           family={{Centre for Development Research and Documentation}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4d98c1e8c56429b6a274363a5528652}
+      \strng{fullhash}{e4d98c1e8c56429b6a274363a5528652}
+      \strng{bibnamehash}{e4d98c1e8c56429b6a274363a5528652}
+      \strng{authorbibnamehash}{e4d98c1e8c56429b6a274363a5528652}
+      \strng{authornamehash}{e4d98c1e8c56429b6a274363a5528652}
+      \strng{authorfullhash}{e4d98c1e8c56429b6a274363a5528652}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Time Management of District Education Officers (Primary)}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.ispepune.org.in/PDF ISSUE/2003/JISPE403/2037DOCU-2.PDF
+      \endverb
+      \verb{url}
+      \verb http://www.ispepune.org.in/PDF%20ISSUE/2003/JISPE403/2037DOCU-2.PDF
+      \endverb
+    \endentry
+    \entry{das2007teacher}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=baba7ec5ccb6d1b6a1e643d4a4c46ad7}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Jishnu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a020b273609d91c7520d5ca3dbddfe9e}{%
+           family={Dercon},
+           familyi={D\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fee36baa136492e0eb2389bc5f463f1f}{%
+           family={Habyarimana},
+           familyi={H\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dae4f341539b433621bab136add1d935}{%
+           family={Krishnan},
+           familyi={K\bibinitperiod},
+           given={Pramila},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Wisconsin Press}%
+      }
+      \strng{namehash}{7d4c7657b66bd86659c76a18eaba4225}
+      \strng{fullhash}{ec1234f19b6098b588fa4e7f51be37be}
+      \strng{bibnamehash}{ec1234f19b6098b588fa4e7f51be37be}
+      \strng{authorbibnamehash}{ec1234f19b6098b588fa4e7f51be37be}
+      \strng{authornamehash}{7d4c7657b66bd86659c76a18eaba4225}
+      \strng{authorfullhash}{ec1234f19b6098b588fa4e7f51be37be}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Human resources}
+      \field{number}{4}
+      \field{title}{Teacher shocks and student learning evidence from Zambia}
+      \field{volume}{42}
+      \field{year}{2007}
+      \field{pages}{820\bibrangedash 862}
+      \range{pages}{43}
+    \endentry
+    \entry{ssa_css}{report}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=375ead728179258de192b0e3d3f2ac95}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Subrat},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cb917c6b113507b86c6f4a4c18ed19e9}{%
+           family={Mitra},
+           familyi={M\bibinitperiod},
+           given={Sona},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Centre for Budget}%
+        {Governance Accountability}%
+      }
+      \strng{namehash}{88805e7c4c2a0b3ad0e04990de0ea4cb}
+      \strng{fullhash}{88805e7c4c2a0b3ad0e04990de0ea4cb}
+      \strng{bibnamehash}{88805e7c4c2a0b3ad0e04990de0ea4cb}
+      \strng{authorbibnamehash}{88805e7c4c2a0b3ad0e04990de0ea4cb}
+      \strng{authornamehash}{88805e7c4c2a0b3ad0e04990de0ea4cb}
+      \strng{authorfullhash}{88805e7c4c2a0b3ad0e04990de0ea4cb}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{Restructuring Centrally Sponsored Schemes}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.cbgaindia.org/wp-content/uploads/2016/03/CSS-briefing-Paper.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.cbgaindia.org/wp-content/uploads/2016/03/CSS-briefing-Paper.pdf
+      \endverb
+    \endentry
+    \entry{davies2018absence}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3ecdc94109a06f9cab75d7f052e1df67}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Emmerich},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ecdc94109a06f9cab75d7f052e1df67}
+      \strng{fullhash}{3ecdc94109a06f9cab75d7f052e1df67}
+      \strng{bibnamehash}{3ecdc94109a06f9cab75d7f052e1df67}
+      \strng{authorbibnamehash}{3ecdc94109a06f9cab75d7f052e1df67}
+      \strng{authornamehash}{3ecdc94109a06f9cab75d7f052e1df67}
+      \strng{authorfullhash}{3ecdc94109a06f9cab75d7f052e1df67}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Absence: Electoral Cycles and Teacher Absenteeism in India}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://barrett.dyson.cornell.edu/NEUDC/paper_90.pdf
+      \endverb
+      \verb{url}
+      \verb http://barrett.dyson.cornell.edu/NEUDC/paper_90.pdf
+      \endverb
+    \endentry
+    \entry{jnk_ssa}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=15553632e78c8ca0d88fbce934734a6b}{%
+           family={{Department of School Education}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{15553632e78c8ca0d88fbce934734a6b}
+      \strng{fullhash}{15553632e78c8ca0d88fbce934734a6b}
+      \strng{bibnamehash}{15553632e78c8ca0d88fbce934734a6b}
+      \strng{authorbibnamehash}{15553632e78c8ca0d88fbce934734a6b}
+      \strng{authornamehash}{15553632e78c8ca0d88fbce934734a6b}
+      \strng{authorfullhash}{15553632e78c8ca0d88fbce934734a6b}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sarva Shiksha Abhiyan}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://ssa.jk.gov.in/contactUs.html
+      \endverb
+      \verb{url}
+      \verb http://ssa.jk.gov.in/contactUs.html
+      \endverb
+    \endentry
+    \entry{ssa_guide}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ae282b12f46c721a7709ae81e331164}{%
+           family={{Department of School Education and Literacy}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ae282b12f46c721a7709ae81e331164}
+      \strng{fullhash}{6ae282b12f46c721a7709ae81e331164}
+      \strng{bibnamehash}{6ae282b12f46c721a7709ae81e331164}
+      \strng{authorbibnamehash}{6ae282b12f46c721a7709ae81e331164}
+      \strng{authornamehash}{6ae282b12f46c721a7709ae81e331164}
+      \strng{authorfullhash}{6ae282b12f46c721a7709ae81e331164}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{District Manual–Sarva Shiksha Abhiyan (SSA)}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://darpg.gov.in/sites/default/files/Sarva\%20Siksha\%20Abhiyan.pdf
+      \endverb
+      \verb{url}
+      \verb https://darpg.gov.in/sites/default/files/Sarva%5C%20Siksha%5C%20Abhiyan.pdf
+      \endverb
+    \endentry
+    \entry{scert_evidence}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7de547e7f6b820fce9605e8a4796b780}{%
+           family={Dyer},
+           familyi={D\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Department of International Development}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{7de547e7f6b820fce9605e8a4796b780}
+      \strng{fullhash}{7de547e7f6b820fce9605e8a4796b780}
+      \strng{bibnamehash}{7de547e7f6b820fce9605e8a4796b780}
+      \strng{authorbibnamehash}{7de547e7f6b820fce9605e8a4796b780}
+      \strng{authornamehash}{7de547e7f6b820fce9605e8a4796b780}
+      \strng{authorfullhash}{7de547e7f6b820fce9605e8a4796b780}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{District Institutes of Education and Training: A Comparative Study in Three Indian States. Researching the Issue}
+      \field{year}{2004}
+      \field{dateera}{ce}
+    \endentry
+    \entry{dfe}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=39b2a73eeebae9ceb7b6325d9b4ff4ce}{%
+           family={{Government of UK}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{39b2a73eeebae9ceb7b6325d9b4ff4ce}
+      \strng{fullhash}{39b2a73eeebae9ceb7b6325d9b4ff4ce}
+      \strng{bibnamehash}{39b2a73eeebae9ceb7b6325d9b4ff4ce}
+      \strng{authorbibnamehash}{39b2a73eeebae9ceb7b6325d9b4ff4ce}
+      \strng{authornamehash}{39b2a73eeebae9ceb7b6325d9b4ff4ce}
+      \strng{authorfullhash}{39b2a73eeebae9ceb7b6325d9b4ff4ce}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Department for Education}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gov.uk/government/organisations/department-for-education
+      \endverb
+      \verb{url}
+      \verb https://www.gov.uk/government/organisations/department-for-education
+      \endverb
+    \endentry
+    \entry{del_scert}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=eaed247dace5b25d3d33d4a505d5c77d}{%
+           family={{Govt. of NCT of Delhi}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{eaed247dace5b25d3d33d4a505d5c77d}
+      \strng{fullhash}{eaed247dace5b25d3d33d4a505d5c77d}
+      \strng{bibnamehash}{eaed247dace5b25d3d33d4a505d5c77d}
+      \strng{authorbibnamehash}{eaed247dace5b25d3d33d4a505d5c77d}
+      \strng{authornamehash}{eaed247dace5b25d3d33d4a505d5c77d}
+      \strng{authorfullhash}{eaed247dace5b25d3d33d4a505d5c77d}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{State Council of Educational Research and Training}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://delhi.gov.in/wps/wcm/connect/doit_scert/Scert+Delhi/Home/About+SCERT/Organisational+Structure
+      \endverb
+      \verb{url}
+      \verb http://delhi.gov.in/wps/wcm/connect/doit_scert/Scert+Delhi/Home/About+SCERT/Organisational+Structure
+      \endverb
+    \endentry
+    \entry{guj_scert_annualreport}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=aa8a7b5e9da52c7bf10ecba5c3585a87}{%
+           family={{Gujarat Council of Educational Research and Training}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Gujarat Council of Educational Research}%
+        {Training}%
+      }
+      \list{location}{1}{%
+        {Gandhinagar}%
+      }
+      \strng{namehash}{aa8a7b5e9da52c7bf10ecba5c3585a87}
+      \strng{fullhash}{aa8a7b5e9da52c7bf10ecba5c3585a87}
+      \strng{bibnamehash}{aa8a7b5e9da52c7bf10ecba5c3585a87}
+      \strng{authorbibnamehash}{aa8a7b5e9da52c7bf10ecba5c3585a87}
+      \strng{authornamehash}{aa8a7b5e9da52c7bf10ecba5c3585a87}
+      \strng{authorfullhash}{aa8a7b5e9da52c7bf10ecba5c3585a87}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Annual Report: 2013-14}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://gcert.gujarat.gov.in/gcert/Portal/News/72_1_Annual_Report_2013-14_new.pdf
+      \endverb
+      \verb{url}
+      \verb https://gcert.gujarat.gov.in/gcert/Portal/News/72_1_Annual_Report_2013-14_new.pdf
+      \endverb
+    \endentry
+    \entry{exec_rule_making}{report}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=baeadce2a99314a862804b459a690b20}{%
+           family={Kakkar},
+           familyi={K\bibinitperiod},
+           given={Jhalak},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=964417ecad23ab57cda0e9629b5c4c39}{%
+           family={Bedi},
+           familyi={B\bibinitperiod},
+           given={Pallavi},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {PRS Legislative Research}%
+      }
+      \strng{namehash}{4bb82b113db55729c94033a51136f36a}
+      \strng{fullhash}{4bb82b113db55729c94033a51136f36a}
+      \strng{bibnamehash}{4bb82b113db55729c94033a51136f36a}
+      \strng{authorbibnamehash}{4bb82b113db55729c94033a51136f36a}
+      \strng{authornamehash}{4bb82b113db55729c94033a51136f36a}
+      \strng{authorfullhash}{4bb82b113db55729c94033a51136f36a}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{11}
+      \field{title}{Parliamentary Scrutiny of Executive Rule Making}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.prsindia.org/administrator/uploads/general/1370586704_Parliamentary\%20Scrutiny\%20of\%20Executive\%20Rule\%20Making.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.prsindia.org/administrator/uploads/general/1370586704_Parliamentary%5C%20Scrutiny%5C%20of%5C%20Executive%5C%20Rule%5C%20Making.pdf
+      \endverb
+    \endentry
+    \entry{cprbb2017-18}{online}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=49b32aab06dd4dc3b464ec2ba67a6a73}{%
+           family={Kapur},
+           familyi={K\bibinitperiod},
+           given={Avani},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8278c72c5357207eacdc9ca2c95e4c8e}{%
+           family={Bordoloi},
+           familyi={B\bibinitperiod},
+           given={Mridusmita},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3c4016a4f09fc0bf9d4ea2d3bc55cd3f}{%
+           family={Aiyar},
+           familyi={A\bibinitperiod},
+           given={Yamini},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Accountability Initiative}%
+      }
+      \strng{namehash}{92c619ac66887d290686d0d521ccb082}
+      \strng{fullhash}{92c619ac66887d290686d0d521ccb082}
+      \strng{bibnamehash}{92c619ac66887d290686d0d521ccb082}
+      \strng{authorbibnamehash}{92c619ac66887d290686d0d521ccb082}
+      \strng{authornamehash}{92c619ac66887d290686d0d521ccb082}
+      \strng{authorfullhash}{92c619ac66887d290686d0d521ccb082}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{25}
+      \field{issue}{2}
+      \field{month}{1}
+      \field{title}{Budget Briefs: Sarva Shiksha Abhiyan (SSA), GOI, 2017-18}
+      \field{volume}{9}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://accountabilityindia.in/sites/default/files/pdf_files/Sarva\%20Shiksha\%20Abhiyan_220317.pdf
+      \endverb
+      \verb{url}
+      \verb http://accountabilityindia.in/sites/default/files/pdf_files/Sarva%5C%20Shiksha%5C%20Abhiyan_220317.pdf
+      \endverb
+    \endentry
+    \entry{ai1819}{online}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=49b32aab06dd4dc3b464ec2ba67a6a73}{%
+           family={Kapur},
+           familyi={K\bibinitperiod},
+           given={Avani},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8278c72c5357207eacdc9ca2c95e4c8e}{%
+           family={Bordoloi},
+           familyi={B\bibinitperiod},
+           given={Mridusmita},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3b4af68535a83c461efd811864771180}{%
+           family={Shukla},
+           familyi={S\bibinitperiod},
+           given={Ritwik},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Centre for Policy Research}%
+      }
+      \strng{namehash}{aba7d03f520824a05017053b1507d685}
+      \strng{fullhash}{aba7d03f520824a05017053b1507d685}
+      \strng{bibnamehash}{aba7d03f520824a05017053b1507d685}
+      \strng{authorbibnamehash}{aba7d03f520824a05017053b1507d685}
+      \strng{authornamehash}{aba7d03f520824a05017053b1507d685}
+      \strng{authorfullhash}{aba7d03f520824a05017053b1507d685}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issue}{1}
+      \field{month}{2}
+      \field{title}{Budget Brief 2018-19: Sarva Shiksha Abhiyan (SSA)}
+      \field{volume}{10}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.cprindia.org/research/reports/budget-brief-2018-19-sarva-shiksha-abhiyan-ssa
+      \endverb
+      \verb{url}
+      \verb http://www.cprindia.org/research/reports/budget-brief-2018-19-sarva-shiksha-abhiyan-ssa
+      \endverb
+    \endentry
+    \entry{geeta_private_phenomenon}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=0d12b6a27245a03d0991d34cba32b73f}{%
+           family={Kingdon},
+           familyi={K\bibinitperiod},
+           given={Geeta\bibnamedelima Gandhi},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0d12b6a27245a03d0991d34cba32b73f}
+      \strng{fullhash}{0d12b6a27245a03d0991d34cba32b73f}
+      \strng{bibnamehash}{0d12b6a27245a03d0991d34cba32b73f}
+      \strng{authorbibnamehash}{0d12b6a27245a03d0991d34cba32b73f}
+      \strng{authornamehash}{0d12b6a27245a03d0991d34cba32b73f}
+      \strng{authorfullhash}{0d12b6a27245a03d0991d34cba32b73f}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{IZA DP No. 10612}
+      \field{journaltitle}{IZA Institute of Labour Economics}
+      \field{month}{3}
+      \field{title}{The Private Schooling Phenomenon in India: A Review}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://ftp.iza.org/dp10612.pdf
+      \endverb
+      \verb{url}
+      \verb http://ftp.iza.org/dp10612.pdf
+      \endverb
+    \endentry
+    \entry{pe_education}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=0d12b6a27245a03d0991d34cba32b73f}{%
+           family={Kingdon},
+           familyi={K\bibinitperiod},
+           given={Geeta\bibnamedelima Gandhi},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=75cf392d25edb7b3945443459f74882b}{%
+           family={Muzammil},
+           familyi={M\bibinitperiod},
+           given={Mohd.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford Policy Institute)}%
+      }
+      \strng{namehash}{144ccf1bc6da90692877c15313e3f06a}
+      \strng{fullhash}{144ccf1bc6da90692877c15313e3f06a}
+      \strng{bibnamehash}{144ccf1bc6da90692877c15313e3f06a}
+      \strng{authorbibnamehash}{144ccf1bc6da90692877c15313e3f06a}
+      \strng{authornamehash}{144ccf1bc6da90692877c15313e3f06a}
+      \strng{authorfullhash}{144ccf1bc6da90692877c15313e3f06a}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978­0­9551123­5­5}
+      \field{month}{9}
+      \field{title}{A political economy of education in India: The case of Uttar Pradesh}
+      \field{year}{2008}
+    \endentry
+    \entry{kingdon2010teacher}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=2aef866a6a24f75aae6b149b468e3f44}{%
+           family={Kingdon},
+           familyi={K\bibinitperiod},
+           given={Geeta},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c0431bb187820337c26cd296cac22d9}{%
+           family={Teal},
+           familyi={T\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{50b73d7906c7a4ec586db29c1ebae211}
+      \strng{fullhash}{50b73d7906c7a4ec586db29c1ebae211}
+      \strng{bibnamehash}{50b73d7906c7a4ec586db29c1ebae211}
+      \strng{authorbibnamehash}{50b73d7906c7a4ec586db29c1ebae211}
+      \strng{authornamehash}{50b73d7906c7a4ec586db29c1ebae211}
+      \strng{authorfullhash}{50b73d7906c7a4ec586db29c1ebae211}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Development Economics}
+      \field{number}{2}
+      \field{title}{Teacher unions, teacher pay and student performance in India: A pupil fixed effects approach}
+      \field{volume}{91}
+      \field{year}{2010}
+      \field{pages}{278\bibrangedash 288}
+      \range{pages}{11}
+    \endentry
+    \entry{kremer_absence}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=c2e8d4b922fb733f9e6362c2141069b0}{%
+           family={Kremer},
+           familyi={K\bibinitperiod},
+           given={Micheal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=496618080e5a5efd9ad85aa84fc6cc71}{%
+           family={Chaudhury},
+           familyi={C\bibinitperiod},
+           given={Nazmul},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5c6b36eabee5ea2188284c254b4865fb}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={F.\bibnamedelimi Hasley},
+           giveni={F\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9a3ae139bd39575415426687587ef3d3}{%
+           family={Muralidharan},
+           familyi={M\bibinitperiod},
+           given={Karthik},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b07a39eb4826d82f8706b6d3fc999753}{%
+           family={Hammer},
+           familyi={H\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bf5f2d9368cd441afb7951cff3aa50f6}
+      \strng{fullhash}{5797419e8ebdcabdce631db037bac765}
+      \strng{bibnamehash}{5797419e8ebdcabdce631db037bac765}
+      \strng{authorbibnamehash}{5797419e8ebdcabdce631db037bac765}
+      \strng{authornamehash}{bf5f2d9368cd441afb7951cff3aa50f6}
+      \strng{authorfullhash}{5797419e8ebdcabdce631db037bac765}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issue}{2-3}
+      \field{journaltitle}{Journal of the European Economic Association}
+      \field{month}{5}
+      \field{title}{Teacher Absence in India: A Snapshot}
+      \field{volume}{3}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{658\bibrangedash 667}
+      \range{pages}{10}
+    \endentry
+    \entry{scerts}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b742dd53031fbeac93b9fef2d399291b}{%
+           family={{Ministry of Human Resource and Development}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b742dd53031fbeac93b9fef2d399291b}
+      \strng{fullhash}{b742dd53031fbeac93b9fef2d399291b}
+      \strng{bibnamehash}{b742dd53031fbeac93b9fef2d399291b}
+      \strng{authorbibnamehash}{b742dd53031fbeac93b9fef2d399291b}
+      \strng{authornamehash}{b742dd53031fbeac93b9fef2d399291b}
+      \strng{authorfullhash}{b742dd53031fbeac93b9fef2d399291b}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{2}
+      \field{title}{Note on Guidelines for SCERTs}
+      \field{urlday}{15}
+      \field{urlmonth}{1}
+      \field{urlyear}{2018}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.teindia.nic.in/Files/Guidelines_TE_INSTs/MHRD_Guidelines_for_SCERTs-15-02-2011.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.teindia.nic.in/Files/Guidelines_TE_INSTs/MHRD_Guidelines_for_SCERTs-15-02-2011.pdf
+      \endverb
+    \endentry
+    \entry{scert_structures}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=7476d4edb4ead95c01d38a43fd6770ef}{%
+           family={Mukhopadhyay},
+           familyi={M\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=30d26699b3e2fb0cd1b6678637dd4233}{%
+           family={Ramkumar},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7f0eeb2976989a8f52c3edfc7fe9e601}{%
+           family={Vasavi},
+           familyi={V\bibinitperiod},
+           given={A.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {http://www.educationforallinindia.com/management-of-elementary-education-in-india.pdf}%
+      }
+      \strng{namehash}{6e2605e67022d6b4115e64e5d6da2ad0}
+      \strng{fullhash}{6e2605e67022d6b4115e64e5d6da2ad0}
+      \strng{bibnamehash}{6e2605e67022d6b4115e64e5d6da2ad0}
+      \strng{authorbibnamehash}{6e2605e67022d6b4115e64e5d6da2ad0}
+      \strng{authornamehash}{6e2605e67022d6b4115e64e5d6da2ad0}
+      \strng{authorfullhash}{6e2605e67022d6b4115e64e5d6da2ad0}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{5}
+      \field{title}{Management of Elementary Education: Structures and Strategies}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.educationforallinindia.com/management-of-elementary-education-in-india.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.educationforallinindia.com/management-of-elementary-education-in-india.pdf
+      \endverb
+    \endentry
+    \entry{karthik_m_10b}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=9a3ae139bd39575415426687587ef3d3}{%
+           family={Muralidharan},
+           familyi={M\bibinitperiod},
+           given={Karthik},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=baba7ec5ccb6d1b6a1e643d4a4c46ad7}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Jishnu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e4699d3a6fb88175e643221fe9487930}{%
+           family={Holla},
+           familyi={H\bibinitperiod},
+           given={Alaka},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a67d3d2518f7492af1ccc74a8c3c0658}{%
+           family={Mohpal},
+           familyi={M\bibinitperiod},
+           given={Aakash},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d56f5e7d65f46b6a28a97b75efe09c2a}
+      \strng{fullhash}{465f1fde7a5cb1b0b57da166d4178b3d}
+      \strng{bibnamehash}{465f1fde7a5cb1b0b57da166d4178b3d}
+      \strng{authorbibnamehash}{465f1fde7a5cb1b0b57da166d4178b3d}
+      \strng{authornamehash}{d56f5e7d65f46b6a28a97b75efe09c2a}
+      \strng{authorfullhash}{465f1fde7a5cb1b0b57da166d4178b3d}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Economics}
+      \field{title}{The fiscal cost of weak governance: Evidence from teacher absence in India}
+      \field{volume}{145}
+      \field{year}{2017}
+      \field{pages}{116\bibrangedash 135}
+      \range{pages}{20}
+    \endentry
+    \entry{ncert_scert}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e6a28c26a9624e9d63354169b787b14c}{%
+           family={{National Council for Education Research and Training}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {National Council for Education Research}%
+        {Training}%
+      }
+      \list{location}{1}{%
+        {New Delhi}%
+      }
+      \strng{namehash}{e6a28c26a9624e9d63354169b787b14c}
+      \strng{fullhash}{e6a28c26a9624e9d63354169b787b14c}
+      \strng{bibnamehash}{e6a28c26a9624e9d63354169b787b14c}
+      \strng{authorbibnamehash}{e6a28c26a9624e9d63354169b787b14c}
+      \strng{authornamehash}{e6a28c26a9624e9d63354169b787b14c}
+      \strng{authorfullhash}{e6a28c26a9624e9d63354169b787b14c}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{District Training Workshop Module}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.ncert.nic.in/programmes/NAS/pdf/NAS_District_Workshop_Module.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncert.nic.in/programmes/NAS/pdf/NAS_District_Workshop_Module.pdf
+      \endverb
+    \endentry
+    \entry{nisa}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c7cbe3b2f774de06527c6a33257f078a}{%
+           family={{National Independent School Alliance}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7cbe3b2f774de06527c6a33257f078a}
+      \strng{fullhash}{c7cbe3b2f774de06527c6a33257f078a}
+      \strng{bibnamehash}{c7cbe3b2f774de06527c6a33257f078a}
+      \strng{authorbibnamehash}{c7cbe3b2f774de06527c6a33257f078a}
+      \strng{authornamehash}{c7cbe3b2f774de06527c6a33257f078a}
+      \strng{authorfullhash}{c7cbe3b2f774de06527c6a33257f078a}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data on School Closures due to RTE Act}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://nisaindia.org/data-on-school-closures
+      \endverb
+      \verb{url}
+      \verb http://nisaindia.org/data-on-school-closures
+      \endverb
+    \endentry
+    \entry{nhlpc_chile}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=74f68a3640a40011bd65b6295c7cc020}{%
+           family={{National Laboratory for High Performance Computing}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{74f68a3640a40011bd65b6295c7cc020}
+      \strng{fullhash}{74f68a3640a40011bd65b6295c7cc020}
+      \strng{bibnamehash}{74f68a3640a40011bd65b6295c7cc020}
+      \strng{authorbibnamehash}{74f68a3640a40011bd65b6295c7cc020}
+      \strng{authornamehash}{74f68a3640a40011bd65b6295c7cc020}
+      \strng{authorfullhash}{74f68a3640a40011bd65b6295c7cc020}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Education Quality Assurance Agency}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.nlhpc.cl/en/education-quality-assurance-agency/
+      \endverb
+      \verb{url}
+      \verb http://www.nlhpc.cl/en/education-quality-assurance-agency/
+      \endverb
+    \endentry
+    \entry{niti3yearagenda}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c2359a65845c4d6985a81b17878766c6}{%
+           family={{NITI Aayog}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {NITI Aayog}%
+      }
+      \list{location}{1}{%
+        {New Delhi}%
+      }
+      \strng{namehash}{c2359a65845c4d6985a81b17878766c6}
+      \strng{fullhash}{c2359a65845c4d6985a81b17878766c6}
+      \strng{bibnamehash}{c2359a65845c4d6985a81b17878766c6}
+      \strng{authorbibnamehash}{c2359a65845c4d6985a81b17878766c6}
+      \strng{authornamehash}{c2359a65845c4d6985a81b17878766c6}
+      \strng{authorfullhash}{c2359a65845c4d6985a81b17878766c6}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Three Year Action Agenda: 2017-18 to 2019-20}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://niti.gov.in/writereaddata/files/coop/India_ActionAgenda.pdf
+      \endverb
+      \verb{url}
+      \verb http://niti.gov.in/writereaddata/files/coop/India_ActionAgenda.pdf
+      \endverb
+    \endentry
+    \entry{pisa2009}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={OECD},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {OECD Publishing}%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PISA 2009 at a Glance}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1787/9789264095298-en
+      \endverb
+    \endentry
+    \entry{chile_ed_policy}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={{OECD}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Education Policy Outlook Snapshot: Chile}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.oecd.org/education/highlightschile.htm
+      \endverb
+      \verb{url}
+      \verb http://www.oecd.org/education/highlightschile.htm
+      \endverb
+    \endentry
+    \entry{toolkit}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=bdbed435a416a918aa494017fda4c7fb}{%
+           family={OECD},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{fullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{bibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorbibnamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authornamehash}{bdbed435a416a918aa494017fda4c7fb}
+      \strng{authorfullhash}{bdbed435a416a918aa494017fda4c7fb}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{OECD Regulatory Enforcement and Inspections Toolkit}
+      \field{year}{2018}
+      \field{pages}{56}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/https://doi.org/10.1787/9789264303959-en
+      \endverb
+      \verb{urlraw}
+      \verb https://www.oecd-ilibrary.org/content/publication/9789264303959-en
+      \endverb
+      \verb{url}
+      \verb https://www.oecd-ilibrary.org/content/publication/9789264303959-en
+      \endverb
+    \endentry
+    \entry{NBERw11753}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=69486c79e538ad55b3d438f8ae153ba3}{%
+           family={Olken},
+           familyi={O\bibinitperiod},
+           given={Benjamin\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{69486c79e538ad55b3d438f8ae153ba3}
+      \strng{fullhash}{69486c79e538ad55b3d438f8ae153ba3}
+      \strng{bibnamehash}{69486c79e538ad55b3d438f8ae153ba3}
+      \strng{authorbibnamehash}{69486c79e538ad55b3d438f8ae153ba3}
+      \strng{authornamehash}{69486c79e538ad55b3d438f8ae153ba3}
+      \strng{authorfullhash}{69486c79e538ad55b3d438f8ae153ba3}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{number}{11753}
+      \field{series}{Working Paper Series}
+      \field{title}{Monitoring Corruption: Evidence from a Field Experiment in Indonesia}
+      \field{type}{Working Paper}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.3386/w11753
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w11753
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w11753
+      \endverb
+    \endentry
+    \entry{uncoupling}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=05485f27cccfa987696be676cf49e13f}{%
+           family={Osborne},
+           familyi={O\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=53a9f1b658374956efdf805287d3892f}{%
+           family={Plastrik},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Plume; Reprint edition (May 1, 1998)}%
+      }
+      \strng{namehash}{ced837b18db6e8ab245226d0f51ff522}
+      \strng{fullhash}{ced837b18db6e8ab245226d0f51ff522}
+      \strng{bibnamehash}{ced837b18db6e8ab245226d0f51ff522}
+      \strng{authorbibnamehash}{ced837b18db6e8ab245226d0f51ff522}
+      \strng{authornamehash}{ced837b18db6e8ab245226d0f51ff522}
+      \strng{authorfullhash}{ced837b18db6e8ab245226d0f51ff522}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780452279803}
+      \field{title}{Banishing Bureaucracy: The Five Strategies for Reinventing Government}
+      \field{year}{1998}
+    \endentry
+    \entry{sweden_governance}{online}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=fbb9cac4703a77916ec6fb2d5a71b2cb}{%
+           family={Peterka},
+           familyi={P\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8ef47317e5bdc6b0f08ac81b77bd4030}{%
+           family={Figueroa},
+           familyi={F\bibinitperiod},
+           given={Diana\bibnamedelima Toledo},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=82f9c7e181081f88360266cd0ab0e662}{%
+           family={Golden},
+           familyi={G\bibinitperiod},
+           given={Gillian},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5c9b734fa17b90c45f7758efebee50a3}{%
+           family={Giovinazzo},
+           familyi={G\bibinitperiod},
+           given={Manon},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {OECD}%
+      }
+      \strng{namehash}{e6c298474259fa89141d58a704d5d7de}
+      \strng{fullhash}{843c96d35f012c297eae242e52d77e17}
+      \strng{bibnamehash}{843c96d35f012c297eae242e52d77e17}
+      \strng{authorbibnamehash}{843c96d35f012c297eae242e52d77e17}
+      \strng{authornamehash}{e6c298474259fa89141d58a704d5d7de}
+      \strng{authorfullhash}{843c96d35f012c297eae242e52d77e17}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Education Policy Outlook: Sweden}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.oecd.org/education/Education-Policy-Outlook-Country-Profile-Sweden.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.oecd.org/education/Education-Policy-Outlook-Country-Profile-Sweden.pdf
+      \endverb
+    \endentry
+    \entry{denmarkgovernance}{online}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=9293f1502a13d8174310c45e84895822}{%
+           family={Pont},
+           familyi={P\bibinitperiod},
+           given={Beatriz},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8ef47317e5bdc6b0f08ac81b77bd4030}{%
+           family={Figueroa},
+           familyi={F\bibinitperiod},
+           given={Diana\bibnamedelima Toledo},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=03aed4d8a34a0fce07c94bdff8baefde}{%
+           family={Albiser},
+           familyi={A\bibinitperiod},
+           given={Etienne},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=40d8a786e0267a74dc5459b13ba76001}{%
+           family={Yee},
+           familyi={Y\bibinitperiod},
+           given={Hyo\bibnamedelima Jeong},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e1119d6e5f88ab0780d2ff27a656d89d}{%
+           family={Skalde},
+           familyi={S\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a84cadfd9a4b8883d57d56b1ef4b7045}{%
+           family={Zapata},
+           familyi={Z\bibinitperiod},
+           given={Juliana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5e5c451aa557123c0c26223dfdff6bde}{%
+           family={Fraccola},
+           familyi={F\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {OECD}%
+      }
+      \strng{namehash}{36ce6568bf60cfed66530952dd722af0}
+      \strng{fullhash}{734068c41ac30f4c43962d693a5a1f48}
+      \strng{bibnamehash}{734068c41ac30f4c43962d693a5a1f48}
+      \strng{authorbibnamehash}{734068c41ac30f4c43962d693a5a1f48}
+      \strng{authornamehash}{36ce6568bf60cfed66530952dd722af0}
+      \strng{authorfullhash}{734068c41ac30f4c43962d693a5a1f48}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{Education Policy Outlook: Denmark}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.oecd.org/education/EDUCATION\%20POLICY\%20OUTLOOK\%20DENMARK_EN.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.oecd.org/education/EDUCATION%5C%20POLICY%5C%20OUTLOOK%5C%20DENMARK_EN.pdf
+      \endverb
+    \endentry
+    \entry{aus_governance}{online}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=9293f1502a13d8174310c45e84895822}{%
+           family={Pont},
+           familyi={P\bibinitperiod},
+           given={Beatriz},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8ef47317e5bdc6b0f08ac81b77bd4030}{%
+           family={Figueroa},
+           familyi={F\bibinitperiod},
+           given={Diana\bibnamedelima Toledo},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a84cadfd9a4b8883d57d56b1ef4b7045}{%
+           family={Zapata},
+           familyi={Z\bibinitperiod},
+           given={Juliana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8f41da8f1e21ca9119c965465cf3eb07}{%
+           family={Fraccolar},
+           familyi={F\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {OECD}%
+      }
+      \strng{namehash}{36ce6568bf60cfed66530952dd722af0}
+      \strng{fullhash}{6a26b0c8ad7467d408fa5f78f5529c43}
+      \strng{bibnamehash}{6a26b0c8ad7467d408fa5f78f5529c43}
+      \strng{authorbibnamehash}{6a26b0c8ad7467d408fa5f78f5529c43}
+      \strng{authornamehash}{36ce6568bf60cfed66530952dd722af0}
+      \strng{authorfullhash}{6a26b0c8ad7467d408fa5f78f5529c43}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Education Policy Outlook: Australia}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.oecd.org/education/EDUCATION\%20POLICY\%20OUTLOOK\%20AUSTRALIA_EN.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.oecd.org/education/EDUCATION%5C%20POLICY%5C%20OUTLOOK%5C%20AUSTRALIA_EN.pdf
+      \endverb
+    \endentry
+    \entry{64_RTE}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3da5447bba1345f0134c15af7eb08b95}{%
+           family={Rajput},
+           familyi={R\bibinitperiod},
+           given={J\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {The Indian Express}%
+      }
+      \strng{namehash}{3da5447bba1345f0134c15af7eb08b95}
+      \strng{fullhash}{3da5447bba1345f0134c15af7eb08b95}
+      \strng{bibnamehash}{3da5447bba1345f0134c15af7eb08b95}
+      \strng{authorbibnamehash}{3da5447bba1345f0134c15af7eb08b95}
+      \strng{authornamehash}{3da5447bba1345f0134c15af7eb08b95}
+      \strng{authorfullhash}{3da5447bba1345f0134c15af7eb08b95}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{1}
+      \field{title}{Six years on, only 6.4\% of govt schools comply with RTE norms}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.newindianexpress.com/magazine/voices/2017/jan/14/six-years-on-only-64-of-govt-schools-comply-with-rte-norms-1559014.html
+      \endverb
+      \verb{url}
+      \verb http://www.newindianexpress.com/magazine/voices/2017/jan/14/six-years-on-only-64-of-govt-schools-comply-with-rte-norms-1559014.html
+      \endverb
+    \endentry
+    \entry{roy_etal}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=d7955df5a99c58d1da544044c38318ea}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Shubho},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=03d6f0bfac38ac1eece36ef1b29a2686}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9cd0c2bbb261c44d8f9ca8153f3cc3d2}{%
+           family={Srikrishna},
+           familyi={S\bibinitperiod},
+           given={B.\bibnamedelimi N.},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e05b12c0a11d2e13b5d5eb053a42105e}{%
+           family={Sundaresan},
+           familyi={S\bibinitperiod},
+           given={Somasekhar},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New Delhi}%
+      }
+      \strng{namehash}{3f8a74af7a6afcadd4ef971596931e06}
+      \strng{fullhash}{7c15fdec8aa73fdba55de6ca55c978be}
+      \strng{bibnamehash}{7c15fdec8aa73fdba55de6ca55c978be}
+      \strng{authorbibnamehash}{7c15fdec8aa73fdba55de6ca55c978be}
+      \strng{authornamehash}{3f8a74af7a6afcadd4ef971596931e06}
+      \strng{authorfullhash}{7c15fdec8aa73fdba55de6ca55c978be}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{journaltitle}{National Institute of Public Finance and Policy}
+      \field{month}{7}
+      \field{title}{Building State capacity for regulation in India}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://macrofinance.nipfp.org.in/PDF/RSSS_building-state-capacity.pdf
+      \endverb
+      \verb{url}
+      \verb https://macrofinance.nipfp.org.in/PDF/RSSS_building-state-capacity.pdf
+      \endverb
+    \endentry
+    \entry{smsa_pubjab}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{Samagra Shiksha Abhiyan Punjab}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://bit.ly/2Bg5h0d
+      \endverb
+      \verb{url}
+      \verb https://bit.ly/2Bg5h0d
+      \endverb
+    \endentry
+    \entry{mex_governance}{online}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=a05c56b7b0a395d267fcd25742176aac}{%
+           family={Santiago},
+           familyi={S\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=95b0145241ac9ec3a27d485d8eb5bfdb}{%
+           family={Fitzpatrick},
+           familyi={F\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8ef47317e5bdc6b0f08ac81b77bd4030}{%
+           family={Figueroa},
+           familyi={F\bibinitperiod},
+           given={Diana\bibnamedelima Toledo},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=82f9c7e181081f88360266cd0ab0e662}{%
+           family={Golden},
+           familyi={G\bibinitperiod},
+           given={Gillian},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0da35a511f501bd0a29d2621c52ba526}{%
+           family={Crosby},
+           familyi={C\bibinitperiod},
+           given={Shiana},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {OECD}%
+      }
+      \strng{namehash}{65d8efdec7bd20505363eb92c45ae3cd}
+      \strng{fullhash}{e7d3084614771912f9f15f7dfa1431e6}
+      \strng{bibnamehash}{e7d3084614771912f9f15f7dfa1431e6}
+      \strng{authorbibnamehash}{e7d3084614771912f9f15f7dfa1431e6}
+      \strng{authornamehash}{65d8efdec7bd20505363eb92c45ae3cd}
+      \strng{authorfullhash}{e7d3084614771912f9f15f7dfa1431e6}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Education Policy Outlook: Mexico}
+      \field{urlday}{14}
+      \field{urlmonth}{11}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.oecd.org/education/Education-Policy-Outlook-Country-Profile-Mexico-2018.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.oecd.org/education/Education-Policy-Outlook-Country-Profile-Mexico-2018.pdf
+      \endverb
+    \endentry
+    \entry{devnani}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e87ec29b8408c3ff5b3d97e78dc7d6ae}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Bhanu\bibnamedelima Pratap},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {The Times of India}%
+      }
+      \strng{namehash}{e87ec29b8408c3ff5b3d97e78dc7d6ae}
+      \strng{fullhash}{e87ec29b8408c3ff5b3d97e78dc7d6ae}
+      \strng{bibnamehash}{e87ec29b8408c3ff5b3d97e78dc7d6ae}
+      \strng{authorbibnamehash}{e87ec29b8408c3ff5b3d97e78dc7d6ae}
+      \strng{authornamehash}{e87ec29b8408c3ff5b3d97e78dc7d6ae}
+      \strng{authorfullhash}{e87ec29b8408c3ff5b3d97e78dc7d6ae}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{5}
+      \field{title}{Make Rajasthan govt schools the best in country in quality education: Education Minister Devnani}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://timesofindia.indiatimes.com/city/jaipur/Make-Rajasthan-govt-schools-the-best-in-country-in-quality-education-Education-minister-Devnani/articleshow/52307960.cms
+      \endverb
+      \verb{url}
+      \verb https://timesofindia.indiatimes.com/city/jaipur/Make-Rajasthan-govt-schools-the-best-in-country-in-quality-education-Education-minister-Devnani/articleshow/52307960.cms
+      \endverb
+    \endentry
+    \entry{timestudy_beo}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=24a0ef0a6269be289db4de9570763de3}{%
+           family={UNESCO},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {UNESCO}%
+        {IIEP}%
+      }
+      \strng{namehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{fullhash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{bibnamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authorbibnamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authornamehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{authorfullhash}{24a0ef0a6269be289db4de9570763de3}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{2}
+      \field{title}{Roles and functions of supervisors}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb http://unesdoc.unesco.org/images/0021/002159/215929E.pdf
+      \endverb
+      \verb{url}
+      \verb http://unesdoc.unesco.org/images/0021/002159/215929E.pdf
+      \endverb
+    \endentry
+    \entry{wilmawadhwa}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=72fe88044e407a2268ea17a635699fc8}{%
+           family={Wadhwa},
+           familyi={W\bibinitperiod},
+           given={Wilma},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ASER}%
+      }
+      \strng{namehash}{72fe88044e407a2268ea17a635699fc8}
+      \strng{fullhash}{72fe88044e407a2268ea17a635699fc8}
+      \strng{bibnamehash}{72fe88044e407a2268ea17a635699fc8}
+      \strng{authorbibnamehash}{72fe88044e407a2268ea17a635699fc8}
+      \strng{authornamehash}{72fe88044e407a2268ea17a635699fc8}
+      \strng{authorfullhash}{72fe88044e407a2268ea17a635699fc8}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RTE Norms and Learning Outcomes}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb http://img.asercentre.org/docs/Publications/ASER\%20Reports/ASER_2010/Articles/ww2010.pdf
+      \endverb
+      \verb{url}
+      \verb http://img.asercentre.org/docs/Publications/ASER%5C%20Reports/ASER_2010/Articles/ww2010.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{denmark_governance}
+\endrefsection
+\endinput
+

@@ -1,0 +1,5 @@
+structure(list(ID = structure(1:2, .Label = c("1024598065", "942218965"
+), class = "factor"), url = structure(1:2, .Label = c("https://swarajyamag.com/insta/himachal-pradesh-high-court-enquires-about-the-mechanism-used-by-government-to-check-teacher-absenteeism", 
+"https://www.thehindu.com/news/cities/Coimbatore/school-teacher-placed-under-suspension-for-absenteeism/article24904689.ece"
+), class = "factor"), details = list(list(), list())), row.names = c(NA, 
+-2L), class = "data.frame")

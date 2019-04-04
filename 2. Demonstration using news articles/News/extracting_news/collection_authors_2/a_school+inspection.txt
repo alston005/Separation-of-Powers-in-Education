@@ -1,0 +1,11 @@
+structure(list(ID = structure(3:1, .Label = c("815196495", "917363793", 
+"948671327"), class = "factor"), url = structure(c(3L, 1L, 2L
+), .Label = c("http://www.assamtribune.com/scripts/detailsnew.asp?id=aug0218%2Fstate053", 
+"http://www.news18.com/news/india/on-surprise-school-inspection-manipur-minister-finds-goats-instead-of-students-1664317.html", 
+"https://www.thehindu.com/news/national/kerala/school-inspection-to-see-a-sea-change/article24970796.ece"
+), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(uri = "ti_trade@assamtribune.com", name = "Ti Trade", 
+        type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(uri = "https@news18.com", name = "https", 
+        type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L))), row.names = c(NA, 
+-3L), class = "data.frame")

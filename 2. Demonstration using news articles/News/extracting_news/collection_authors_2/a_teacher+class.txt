@@ -1,0 +1,14 @@
+structure(list(ID = structure(c(2L, 1L, 5L, 4L, 3L), .Label = c("1012223430", 
+"1012240406", "790991912", "793459368", "962668843"), class = "factor"), 
+    url = structure(c(4L, 5L, 3L, 1L, 2L), .Label = c("http://www.sify.com/news/hit-by-teacher-class-3-boy-loses-hearing-ability-news-national-sbohKkfjifaeh.html", 
+    "https://timesofindia.indiatimes.com/city/chandigarh/garbage-hauling-video-head-teacher-class-teacher-summoned-by-pb-state-commission-for-protection-of-child-rights/articleshow/62433951.cms", 
+    "https://timesofindia.indiatimes.com/city/nagpur/physics-teachers-e-class-honing-industry-specific-skills/articleshow/66092164.cms", 
+    "https://www.business-standard.com/article/pti-stories/scolded-by-teacher-class-7-student-commits-suicide-in-delhi-118120601188_1.html", 
+    "https://www.latestly.com/agency-news/scolded-by-teacher-class-7-student-commits-suicide-in-delhi-526015.html"
+    ), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = "sarfaraz_ahmed@timesofindia.indiatimes.com", 
+            name = "Sarfaraz Ahmed", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-5L), class = "data.frame")

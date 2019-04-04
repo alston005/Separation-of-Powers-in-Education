@@ -1,0 +1,5 @@
+structure(list(ID = structure(2:1, .Label = c("793065273", "793168869"
+), class = "factor"), url = structure(2:1, .Label = c("http://indianexpress.com/article/education/indian-army-to-establish-2-boarding-schools-for-children-of-martyrs-5022661/", 
+"http://www.ibtimes.co.in/indian-army-chief-set-2-schools-children-martyrs-heres-why-it-win-win-situation-756878"
+), class = "factor"), details = list(list(), list())), row.names = c(NA, 
+-2L), class = "data.frame")

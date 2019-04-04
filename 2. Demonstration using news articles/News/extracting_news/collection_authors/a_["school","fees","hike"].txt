@@ -1,0 +1,18 @@
+structure(list(ID = structure(5:1, .Label = c("1024522731", "1026860599", 
+"1027314916", "1028097625", "1029944550"), class = "factor"), 
+    url = structure(c(2L, 4L, 5L, 3L, 1L), .Label = c("http://www.newindianexpress.com/cities/bengaluru/2018/dec/22/researchers-demand-hike-in-stipend-1915038.html", 
+    "http://www.newindianexpress.com/cities/chennai/2018/dec/31/hits-and-misses-of-2018-1918524.html", 
+    "http://www.oyetimes.com/lifestyle/naukri-and-paisa/244517-a-week-in-kauai-hi-on-9-25-hour", 
+    "https://timesofindia.indiatimes.com/city/hyderabad/a-celebration-of-hyds-most-iconic-bldgs-moments/articleshow/67278460.cms", 
+    "https://www.hindustantimes.com/education/in-a-first-2-private-schools-of-noida-to-return-hiked-fees/story-NKzCtqeDbTH4PFWCBok5qO.html"
+    ), class = "factor"), details = list(structure(list(uri = c("http@newindianexpress.com", 
+    "kv_navya@newindianexpress.com"), name = c("http", "Kv Navya"
+    ), type = c("author", "author"), isAgency = c(FALSE, FALSE
+    )), class = "data.frame", row.names = 1:2), structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = "vaibhav_jha@hindustantimes.com", 
+            name = "Vaibhav Jha", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = c("http@newindianexpress.com", "suraksha_p@newindianexpress.com"
+        ), name = c("http", "Suraksha P"), type = c("author", 
+        "author"), isAgency = c(FALSE, FALSE)), class = "data.frame", row.names = 1:2))), row.names = c(NA, 
+-5L), class = "data.frame")

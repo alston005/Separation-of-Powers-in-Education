@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "836495535", class = "factor"), 
+    url = structure(1L, .Label = "https://timesofindia.indiatimes.com/city/mumbai/bmc-to-monitor-teacher-attendance/articleshow/63418655.cms", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")

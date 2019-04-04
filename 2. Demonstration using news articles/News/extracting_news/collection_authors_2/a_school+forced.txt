@@ -1,0 +1,16 @@
+structure(list(ID = structure(6:1, .Label = c("798015179", "831346855", 
+"832348036", "891913136", "927657317", "949156875"), class = "factor"), 
+    url = structure(c(4L, 3L, 5L, 2L, 6L, 1L), .Label = c("http://indianexpress.com/article/world/uk-school-forced-to-reverse-hijab-ban-5033725/", 
+    "http://www.firstpost.com/india/kolkata-school-that-forced-students-to-confess-to-lesbianism-exemplifies-how-not-to-treat-queer-children-4391763.html", 
+    "http://www.newindianexpress.com/nation/2018/aug/19/jabalpur-school-forced-to-apologise-for-not-inviting-students-to-independence-day-flag-hoisting-1859602.html", 
+    "https://indianexpress.com/article/india/dehradun-school-gangrape-5362528/", 
+    "https://www.financialexpress.com/india-news/tamil-nadu-students-protest-transfer-of-beloved-english-teacher-school-forced-to-defer-it-by-10-days/1215788/", 
+    "https://www.news18.com/news/india/lesbianism-against-culture-bengal-minister-backs-school-that-forced-girls-to-confess-1688839.html"
+    ), class = "factor"), details = list(structure(list(uri = "kavita_upadhyay@indianexpress.com", 
+        name = "Kavita Upadhyay", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-6L), class = "data.frame")

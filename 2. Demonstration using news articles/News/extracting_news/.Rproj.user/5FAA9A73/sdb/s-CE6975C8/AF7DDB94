@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "setwd(\"~/Documents/CCS/SoP/BATakeover/News/extracting_news\")\noutput <- NULL\nall_news <- NULL\nfor(i in 1:length(searched_keywords)){\n        temp <- read.csv(paste(\"~/Documents/CCS/SoP/BATakeover/News/extracting_news/collection_articles/\",\n                               searched_keywords[i], sep = \"\"))\n        output <- rbind(output, temp)\n}\noutput <- unique(output[, 2:8])\noutput[,\"relevant\"] <- \"\"  #adding the 'relevant' column\nall_news <- output[,c(8,7,4,1,2,3,5,6)]\n\n#partitioning the file into smaller bits\nall_news1 <- all_news[1:1000,]\nwrite.csv(all_news1, file = \"all_news1.csv\")\n\nall_news2 <- all_news[1001:2000,]\nwrite.csv(all_news2, file = \"all_news2.csv\")\n\nall_news3 <- all_news[2001:3000,]\nwrite.csv(all_news3, file = \"all_news3.csv\")\n\nall_news4 <- all_news[3001:4000,]\nwrite.csv(all_news4, file = \"all_news4.csv\")\n\nall_news5 <- all_news[4001:5000,]\nwrite.csv(all_news5, file = \"all_news5.csv\")\n\nall_news6 <- all_news[5001:6000,]\nwrite.csv(all_news6, file = \"all_news6.csv\")\n\nall_news7 <- all_news[6001:6125,]\nwrite.csv(all_news7, file = \"all_news7.csv\")\n\n\n\nView(output)\nx <- all_news[order(all_news$date),]\nView(x)\n?sort\n",
+    "created" : 1538661255440.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1294246931",
+    "id" : "AF7DDB94",
+    "lastKnownWriteTime" : 1548157689,
+    "last_content_update" : 1548157689,
+    "path" : "~/Documents/CCS/SoP/BATakeover/News/extracting_news/creating_master_dataset.R",
+    "project_path" : "creating_master_dataset.R",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

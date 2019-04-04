@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "967468441", class = "factor"), 
+    url = structure(1L, .Label = "https://article.wn.com/view/2018/10/11/NYC_teacher_contract_includes_bonus_for_hardtostaff_posts_jl/", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")

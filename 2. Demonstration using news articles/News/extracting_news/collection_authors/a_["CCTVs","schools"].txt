@@ -1,0 +1,18 @@
+structure(list(ID = structure(6:1, .Label = c("1020796850", "1025195763", 
+"1025295994", "1029254680", "1029261270", "1029386926"), class = "factor"), 
+    url = structure(c(1L, 6L, 5L, 3L, 4L, 2L), .Label = c("http://www.newindianexpress.com/cities/delhi/2018/dec/30/2018-will-be-remembered-as-landmark-year-in-delhis-history-sisodia-1918376.html", 
+    "https://indianexpress.com/article/education/sdmc-schools-yet-to-get-cctvs-women-guards-5498170/", 
+    "https://indianexpress.com/article/india/amit-shah-assembly-proceedings-rubbed-salt-on-wounds-of-84-riot-victims-5506524/", 
+    "https://timesofindia.indiatimes.com/india/amit-shah-attacks-arvind-kejriwal-over-controversial-delhi-assembly-resolution/articleshow/67219007.cms", 
+    "https://www.business-standard.com/article/pti-stories/2018-will-be-remembered-as-landmark-year-in-delhi-s-history-sisodia-118123000180_1.html", 
+    "https://www.udayavani.com/english/news/national/349134/2018-will-be-remembered-landmark-year-delhis-history-sisodia"
+    ), class = "factor"), details = list(structure(list(uri = c("http@newindianexpress.com", 
+    "naveen_kumar@newindianexpress.com"), name = c("http", "Naveen Kumar"
+    ), type = c("author", "author"), isAgency = c(FALSE, FALSE
+    )), class = "data.frame", row.names = 1:2), structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = "abhinav_rajput@indianexpress.com", 
+            name = "Abhinav Rajput", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-6L), class = "data.frame")

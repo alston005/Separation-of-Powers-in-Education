@@ -1,0 +1,5 @@
+structure(list(ID = structure(2:1, .Label = c("789013729", "920053301"
+), class = "factor"), url = structure(1:2, .Label = c("http://pib.nic.in/newsite/PrintRelease.aspx?relid=181578", 
+"https://timesofindia.indiatimes.com/city/bhubaneswar/send-inspection-report-same-day-higher-education-head/articleshow/62390487.cms"
+), class = "factor"), details = list(list(), list())), row.names = c(NA, 
+-2L), class = "data.frame")

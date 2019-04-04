@@ -1,0 +1,17 @@
+structure(list(ID = structure(6:1, .Label = c("967468441", "984490747", 
+"984534402", "984624579", "985045830", "985251387"), class = "factor"), 
+    url = structure(c(5L, 4L, 6L, 3L, 2L, 1L), .Label = c("https://article.wn.com/view/2018/10/11/NYC_teacher_contract_includes_bonus_for_hardtostaff_posts_jl/", 
+    "https://www.abplive.in/india-news/delhi-teacher-murder-case-deceaseds-husband-confesses-hiring-contract-killers-says-wanted-marry-model-girlfriend-775763", 
+    "https://www.abplive.in/videos/delhi-teacher-murder-casehusband-confesses-hiring-contract-killers-775799", 
+    "https://www.abplive.in/videos/master-stroke-deceaseds-husband-confesses-hiring-contract-killers-in-teacher-murder-case-776092", 
+    "https://www.hindustantimes.com/cities/model-held-for-murder-of-delhi-school-teacher-paid-2-5-lakh-to-contract-killers/story-iVSEoBFLpqn5EuEGvU4iDJ.html", 
+    "https://www.ibtimes.co.in/delhi-teacher-murder-case-police-probe-contract-killers-role-arrest-husband-his-girlfriend-784608"
+    ), class = "factor"), details = list(structure(list(uri = "karn_pratap_singh@hindustantimes.com", 
+        name = "Karn Pratap Singh", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = "nandita_natrajkumar@ibtimes.co.in", 
+            name = "Nandita Natrajkumar", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-6L), class = "data.frame")

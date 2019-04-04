@@ -1,0 +1,9 @@
+structure(list(ID = structure(5:1, .Label = c("793665078", "793671637", 
+"793678095", "821027823", "968589261"), class = "factor"), url = structure(c(5L, 
+2L, 4L, 3L, 1L), .Label = c("http://www.business-standard.com/article/news-ians/du-scholar-supporters-continue-hunger-strike-to-demand-teacher-s-arrest-118011400578_1.html", 
+"http://www.ibtimes.co.in/first-statewide-teacher-strike-in-west-virginia-761996", 
+"http://www.sify.com/news/du-scholar-supporters-continue-hunger-strike-to-demand-teachers-arrest-news-others-sbotugjgaeicg.html", 
+"https://timesofindia.indiatimes.com/city/delhi/delhi-university-scholar-supporters-continue-hunger-strike-to-demand-teachers-arrest/articleshow/62497907.cms", 
+"https://www.business-standard.com/article/pti-stories/block-grant-teacher-defer-strike-till-nov-30-118101300392_1.html"
+), class = "factor"), details = list(list(), list(), list(), 
+    list(), list())), row.names = c(NA, -5L), class = "data.frame")

@@ -1,0 +1,18 @@
+structure(list(ID = structure(11:1, .Label = c("836659990", "910511206", 
+"910528021", "910574414", "910671463", "910770665", "936757345", 
+"975772707", "975783080", "975814024", "975883212"), class = "factor"), 
+    url = structure(c(7L, 10L, 5L, 9L, 4L, 2L, 11L, 8L, 3L, 6L, 
+    1L), .Label = c("http://indianexpress.com/article/cities/delhi/delhi-budget-ranking-for-govt-schools-150-cctvs-at-each-building/", 
+    "http://www.asianage.com/metros/delhi/230718/those-creating-hurdles-in-building-govt-schools-are-traitors-kejriwal.html", 
+    "http://www.newindianexpress.com/cities/delhi/2018/jul/23/those-creating-hurdles-in-building-schools-are-traitors-says-arvind-kejriwal-1847118.html", 
+    "https://timesofindia.indiatimes.com/city/ahmedabad/amc-fines-schools-building-sites/articleshow/65630006.cms", 
+    "https://www.business-standard.com/article/pti-stories/bjp-cong-inld-do-caste-politics-aap-talks-about-building-schools-hospitals-kejriwal-118102201352_1.html", 
+    "https://www.business-standard.com/article/pti-stories/those-creating-hurdles-in-building-schools-are-traitors-says-kejriwal-118072200676_1.html", 
+    "https://www.financialexpress.com/india-news/bjp-congress-inld-do-caste-politics-aap-talks-about-building-schools-hospitals-says-delhi-cm-arvind-kejriwal/1357444/", 
+    "https://www.financialexpress.com/india-news/those-creating-hurdles-in-building-schools-are-traitors-says-delhi-cm-arvind-kejriwal/1254259/", 
+    "https://www.latestly.com/agency-news/bjp-cong-inld-do-caste-politics-aap-talks-about-building-schools-hospitals-kejriwal-449548.html", 
+    "https://www.moneycontrol.com/news/india/bjp-cong-inld-do-caste-politics-aap-talks-about-building-schools-hospitals-arvind-kejriwal-3073351.html", 
+    "https://www.ndtv.com/india-news/those-creating-hurdles-in-building-schools-are-traitors-arvind-kejriwal-1887776"
+    ), class = "factor"), details = list(list(), list(), list(), 
+        list(), list(), list(), list(), list(), list(), list(), 
+        list())), row.names = c(NA, -11L), class = "data.frame")

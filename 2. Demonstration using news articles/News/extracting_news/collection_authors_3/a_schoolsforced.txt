@@ -1,0 +1,14 @@
+structure(list(ID = structure(c(1L, 5L, 4L, 3L, 2L), .Label = c("1021911549", 
+"859337179", "890568578", "916949675", "994839320"), class = "factor"), 
+    url = structure(c(2L, 5L, 4L, 1L, 3L), .Label = c("http://www.centralchronicle.com/children-forced-to-clean-instead-of-studying-at-schools.html", 
+    "https://swarajyamag.com/insta/ground-reality-of-delhi-children-forced-to-sit-on-floors-in-sdmc-schools-due-to-lack-of-funds", 
+    "https://timesofindia.indiatimes.com/city/chennai/schools-say-no-to-new-buses-kids-forced-to-take-risky-rides/articleshow/63964838.cms", 
+    "https://timesofindia.indiatimes.com/city/goa/soon-schools-will-be-forced-to-admit-neighbour-kids-cm/articleshow/65219682.cms", 
+    "https://www.freepressjournal.in/mumbai/mumbai-schools-forced-to-seek-donations-raise-fees/1396808"
+    ), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = "raise_fees@freepressjournal.in", 
+            name = "Raise Fees", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-5L), class = "data.frame")

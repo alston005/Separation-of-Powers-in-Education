@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#setting the directory\nsetwd(\"~/Documents/CCS/SoP/BATakeover/News/extracting_news\")\n\n#creating a vector of all the searched keywords\n#searched_keywords <- NULL\n\n#loading packages\nlibrary(httr) \nlibrary(jsonlite)  \n\nkeyword <- \"[\\\"private\\\",\\\"school\\\"]\"\n#date_start <- \"2017-01-01\"\ndate_start <- \"2017-01-01\"\n#date_end <- \"2019-01-01\"\ndate_end <- \"2019-01-01\"\nlanguage <- \"eng\"  \n\n######################### DO NOT EDIT ANYTHING BELOW THIS LINE #################################################3\ndf <- NULL\nauthors <- NULL\nsearched_keywords <- sort(unique(c(searched_keywords, keyword)))\nwrite.csv(as.data.frame(searched_keywords), file = \"searched_keywords.csv\")\nurl_source <- paste(\"http://eventregistry.org/api/v1/article?query={\\\"$query\\\":{\\\"$and\\\":[{\\\"keyword\\\":{\\\"$and\\\":\", \n                    keyword, \"}},{\\\"$or\\\":[{\\\"sourceLocationUri\\\":\\\"http://en.wikipedia.org/wiki/India\\\"}]},{\\\"dateStart\\\":\\\"\", \n                    date_start, \"\\\",\\\"dateEnd\\\":\\\"\",\n                    date_end, \"\\\",\\\"lang\\\":\\\"\",\n                    language,\"\\\"}]}}&action=getArticles&resultType=articles&articlesSortBy=date&articlesCount=100&includeArticleLocation=true&articleBodyLen=-1&apiKey=ab95fb32-89cb-4a24-9286-3323668cf08b\", sep=\"\")\n\nnews <- fromJSON(url_source)\npages <- news$articles$pages\nfor(i in 1:pages){\n        url_page <- paste(\"http://eventregistry.org/api/v1/article?query={\\\"$query\\\":{\\\"$and\\\":[{\\\"keyword\\\":{\\\"$and\\\":\", \n                            keyword, \"}},{\\\"$or\\\":[{\\\"sourceLocationUri\\\":\\\"http://en.wikipedia.org/wiki/India\\\"}]},{\\\"dateStart\\\":\\\"\", \n                            date_start, \"\\\",\\\"dateEnd\\\":\\\"\",\n                            date_end, \"\\\",\\\"lang\\\":\\\"\",\n                            language,\"\\\"}]}}&action=getArticles&resultType=articles&articlesSortBy=date&articlesCount=100&includeArticleLocation=true&articleBodyLen=-1&articlesPage=\",\n                            i, \"&apiKey=ab95fb32-89cb-4a24-9286-3323668cf08b\", sep=\"\")\n        y <- fromJSON(url_page)\n        df <- rbind(df, data.frame(ID =y$articles$results$uri,\n                                   date = y$articles$results$date, \n                                   url = y$articles$results$url, \n                                   title = y$articles$results$title, \n                                   source = y$articles$results$source$title,\n                                   duplicate = y$articles$results$isDuplicate,\n                                   body = y$articles$results$body))\n        temp_authors <- data.frame(ID = y$articles$results$uri,\n                                   url = y$articles$results$url)\n        temp_authors$details <- y$articles$results$authors\n        authors <- rbind(authors, temp_authors)\n       \n}\ndf <- subset(df, df$duplicate == FALSE)\nView(df)\n#View(authors)\nwrite.csv(df, paste(\"collection_articles/\", paste(keyword, \".csv\", sep = \"\"), sep = \"\"))\n\n#Saving the file with author names\ndput(authors, file = paste(\"collection_authors/\", \"a_\", paste(keyword, \".txt\", sep = \"\"), sep = \"\"))\n\nsearched_keywords\n",
+    "created" : 1538559543451.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "851475337",
+    "id" : "E360D691",
+    "lastKnownWriteTime" : 1548158018,
+    "last_content_update" : 1548158018701,
+    "path" : "~/Documents/CCS/SoP/BATakeover/News/extracting_news/collecting_articles.R",
+    "project_path" : "collecting_articles.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

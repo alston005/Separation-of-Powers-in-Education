@@ -1,0 +1,5 @@
+structure(list(ID = structure(1L, .Label = "1025192593", class = "factor"), 
+    url = structure(1L, .Label = "https://www.indiatoday.in/politics/story/haryana-inld-dushyant-singh-chautala-abhay-singh-chautala-suspension-naina-chautala-1415931-2018-12-23", class = "factor"), 
+    details = list(structure(list(uri = "manjeet_sehgal@indiatoday.in", 
+        name = "Manjeet Sehgal", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L))), row.names = c(NA, 
+-1L), class = "data.frame")

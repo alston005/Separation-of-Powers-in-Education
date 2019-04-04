@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "989273000", class = "factor"), 
+    url = structure(1L, .Label = "https://freepresskashmir.com/2018/11/08/middle-aged-govt-teacher-mocked-made-to-do-sit-ups-by-principal-in-poonch-for-alleged-absence/", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")

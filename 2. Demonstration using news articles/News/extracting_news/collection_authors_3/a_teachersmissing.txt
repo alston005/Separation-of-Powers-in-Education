@@ -1,0 +1,15 @@
+structure(list(ID = structure(5:1, .Label = c("803790318", "916331545", 
+"937037065", "952159703", "992774020"), class = "factor"), url = structure(c(2L, 
+3L, 5L, 4L, 1L), .Label = c("http://www.dnaindia.com/delhi/report-delhi-university-ec-meeting-important-issues-missing-from-agenda-say-teachers-2579909", 
+"http://www.newindianexpress.com/states/tamil-nadu/2018/nov/12/172-names-missing-in-final-list-of-teachers-recruitment-board-claims-association-1896993.html", 
+"https://indianexpress.com/article/cities/ahmedabad/gujarat-warrants-issued-against-18-more-booth-level-officers-mostly-teachers-for-missing-poll-duty-5369350/", 
+"https://www.news18.com/news/india/names-missing-from-nrc-list-bewildered-public-officials-politicians-doctors-and-teachers-ask-what-next-1829595.html", 
+"https://www.outlookindia.com/website/story/5-mumbai-school-girls-go-missing-teachers-say-they-failed-in-mid-term-exam/315907"
+), class = "factor"), details = list(structure(list(uri = "http@newindianexpress.com", 
+    name = "http", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(uri = "ritu_sharma@indianexpress.com", name = "Ritu Sharma", 
+        type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-5L), class = "data.frame")

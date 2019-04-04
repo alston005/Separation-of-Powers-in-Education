@@ -1,0 +1,9 @@
+structure(list(ID = structure(c(1L, 5L, 4L, 3L, 2L), .Label = c("1027024658", 
+"840457906", "840459549", "840460952", "840507800"), class = "factor"), 
+    url = structure(c(3L, 2L, 1L, 5L, 4L), .Label = c("http://www.dnaindia.com/india/report-cbse-paper-leak-delhi-school-association-questions-cbse-s-silence-2598985", 
+    "http://www.newindianexpress.com/cities/delhi/2018/mar/29/delhi-school-association-questions-cbses-silence-on-paper-leak-1794275.html", 
+    "https://kashmirobserver.net/2018/city-news/school-association-rules-out-charging-exorbitant-fee-39005", 
+    "https://www.aninews.in/news/delhi-school-association-questions-cbses-silence-on-paper-leak201803291324010002/", 
+    "https://www.oneindia.com/india/delhi-school-association-condemns-cbse-chairmans-silence-2667856.html"
+    ), class = "factor"), details = list(list(), list(), list(), 
+        list(), list())), row.names = c(NA, -5L), class = "data.frame")

@@ -1,0 +1,15 @@
+structure(list(ID = structure(5:1, .Label = c("1020611677", "1020796850", 
+"1024999984", "1029254612", "1029410445"), class = "factor"), 
+    url = structure(c(2L, 4L, 3L, 1L, 5L), .Label = c("https://indianexpress.com/article/education/sdmc-schools-yet-to-get-cctvs-women-guards-5498170/", 
+    "https://starofmysore.com/thousands-throng-hasiru-santhe-chitra-santhe/", 
+    "https://www.business-standard.com/article/economy-policy/manipur-village-shrugs-off-poverty-to-become-a-benchmark-of-development-118122300182_1.html", 
+    "https://www.freepressjournal.in/uncategorized/indore-stabbed-strangled-18-years-old-found-dead/1425253", 
+    "https://www.thehindu.com/news/national/girls-who-eloped-kept-at-govt-homes-finds-ncw-study/article25765579.ece"
+    ), class = "factor"), details = list(structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = "live_updates@freepressjournal.in", 
+            name = "Live Updates", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(uri = "ninglun_hanghal@business-standard.com", 
+            name = "Ninglun Hanghal", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-5L), class = "data.frame")

@@ -1,0 +1,15 @@
+structure(list(ID = structure(4:1, .Label = c("834668691", "857712499", 
+"880438881", "913410901"), class = "factor"), url = structure(c(4L, 
+3L, 1L, 2L), .Label = c("http://www.newindianexpress.com/cities/chennai/2018/apr/27/panels-to-inspect-school-buildings-from-may-1-to-15-1806991.html", 
+"http://www.newindianexpress.com/states/tamil-nadu/2018/mar/20/set-up-panel-to-inspect-school-buildings-madras-high-court-1789759.html", 
+"https://timesofindia.indiatimes.com/city/coimbatore/transport-officials-to-inspect-school-buses-today/articleshow/64441204.cms", 
+"https://www.hindustantimes.com/dehradun/overloading-rto-to-inspect-every-school-bus-and-van-in-dehradun-every-day/story-nAJeNd4khA8jIP2eJPw2kM.html"
+), class = "factor"), details = list(structure(list(uri = "nitika_kakkar@hindustantimes.com", 
+    name = "Nitika Kakkar", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+    structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+    structure(list(uri = c("http@newindianexpress.com", "c_shivakumar@newindianexpress.com"
+    ), name = c("http", "C Shivakumar"), type = c("author", "author"
+    ), isAgency = c(FALSE, FALSE)), class = "data.frame", row.names = 1:2), 
+    structure(list(uri = "http@golf.lefigaro.fr", name = "http", 
+        type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L))), row.names = c(NA, 
+-4L), class = "data.frame")

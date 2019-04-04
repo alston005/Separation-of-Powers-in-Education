@@ -1,0 +1,14 @@
+structure(list(ID = structure(c(3L, 2L, 1L, 4L), .Label = c("1024030263", 
+"1025585123", "1029889288", "b-1023701869"), class = "factor"), 
+    url = structure(c(1L, 2L, 4L, 3L), .Label = c("https://swarajyamag.com/politics/maharashtra-government-finds-a-new-way-to-avoid-paying-rte-reimbursement-for-poor-children", 
+    "https://timesofindia.indiatimes.com/city/delhi/with-just-3-months-left-in-session-doe-yet-to-fill-over-1200-seats-for-children-with-special-needs/articleshow/67222271.cms", 
+    "https://www.sabhlokcity.com/2018/12/initial-comments-on-the-economic-strategy-proposed-by-raghuram-rajan-et-al/", 
+    "https://www.thehindubusinessline.com/opinion/school-education-in-india-whats-gone-wrong/article25800734.ece"
+    ), class = "factor"), details = list(structure(list(uri = "arihant_pawariya@swarajyamag.com", 
+        name = "Arihant Pawariya", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(uri = "shradha_chettri@timesofindia.indiatimes.com", 
+            name = "Shradha Chettri", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(uri = "anil_swarup@thehindubusinessline.com", 
+            name = "Anil Swarup", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-4L), class = "data.frame")

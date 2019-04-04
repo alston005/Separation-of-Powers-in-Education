@@ -1,0 +1,17 @@
+structure(list(ID = structure(6:1, .Label = c("1020895268", "1021209275", 
+"1023690262", "1024182563", "1024761590", "1029889288"), class = "factor"), 
+    url = structure(c(2L, 3L, 5L, 4L, 6L, 1L), .Label = c("https://indianexpress.com/article/cities/ahmedabad/in-odisha-gujarat-cm-vijay-rupani-targets-patnaik-for-political-visit-to-surat/", 
+    "https://swarajyamag.com/politics/maharashtra-government-finds-a-new-way-to-avoid-paying-rte-reimbursement-for-poor-children", 
+    "https://telanganatoday.com/pvt-education-institutions-gets-assurance-on-pending-issues", 
+    "https://theprint.in/theprint-essential/plugged-in/bharat-meets-india-with-loan-waivers-and-social-sector-spending/167107/", 
+    "https://www.businessinsider.in/online-only-banking-is-the-future-of-managing-money-heres-how-to-get-started/articleshow/67201433.cms", 
+    "https://www.outlookindia.com/website/story/automobiles-top-10-bike-launches-of-2018-re-interceptor-jawa-yamaha-r15-v30-and-much-more/321967"
+    ), class = "factor"), details = list(structure(list(uri = "arihant_pawariya@swarajyamag.com", 
+        name = "Arihant Pawariya", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(uri = "eric_rosenberg@businessinsider.in", 
+            name = "Eric Rosenberg", type = "author", isAgency = FALSE), class = "data.frame", row.names = 1L), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"), 
+        structure(list(), .Names = character(0), row.names = integer(0), class = "data.frame"))), row.names = c(NA, 
+-6L), class = "data.frame")

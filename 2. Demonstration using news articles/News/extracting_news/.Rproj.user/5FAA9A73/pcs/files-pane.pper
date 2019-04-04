@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/CCS/SoP/BATakeover/News/extracting_news/collection_articles",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

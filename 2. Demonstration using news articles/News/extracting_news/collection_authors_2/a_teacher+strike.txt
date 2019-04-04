@@ -1,0 +1,3 @@
+structure(list(ID = structure(1L, .Label = "821027823", class = "factor"), 
+    url = structure(1L, .Label = "http://www.ibtimes.co.in/first-statewide-teacher-strike-in-west-virginia-761996", class = "factor"), 
+    details = list(list())), row.names = c(NA, -1L), class = "data.frame")
